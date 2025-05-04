@@ -1,0 +1,638 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1746303118751,471,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-1,text,true,,5829,521,5,5,https://jpetstore.aspectran.com/,468,0,148
+1746303118972,461,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-2,text,true,,5829,521,5,5,https://jpetstore.aspectran.com/,461,0,137
+1746303119259,408,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-1,text,true,,17640,797,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,299,0,154
+1746303119259,299,01_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Generate Html 1-1,text,true,,531,390,5,5,https://unpkg.com/htmx.org@2.0.3,299,0,154
+1746303119558,109,01_01_ClickEnterJPetStoreDemo-1,200,OK,Generate Html 1-1,text,true,,17109,407,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,103,0,0
+1746303099740,879,01_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-1,,true,,23469,1318,5,5,null,767,19050,302
+1746303119816,330,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-2,text,true,,17660,797,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,239,0,137
+1746303119816,239,01_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Generate Html 1-2,text,true,,531,390,5,5,https://unpkg.com/htmx.org@2.0.3,239,0,137
+1746303120055,91,01_01_ClickEnterJPetStoreDemo-1,200,OK,Generate Html 1-2,text,true,,17129,407,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,84,0,0
+1746303099942,791,01_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-2,,true,,23489,1318,5,5,null,700,19417,274
+1746303119180,969,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-3,text,true,,5828,521,5,5,https://jpetstore.aspectran.com/,969,0,159
+1746303119513,942,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-4,text,true,,5828,521,5,5,https://jpetstore.aspectran.com/,942,0,135
+1746303119546,958,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-5,text,true,,5830,521,5,5,https://jpetstore.aspectran.com/,958,0,132
+1746303120360,362,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-3,text,true,,17655,797,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,258,0,128
+1746303120360,258,01_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Generate Html 1-3,text,true,,531,390,5,5,https://unpkg.com/htmx.org@2.0.3,258,0,128
+1746303120618,104,01_01_ClickEnterJPetStoreDemo-1,200,OK,Generate Html 1-3,text,true,,17124,407,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,100,0,0
+1746303100139,1331,01_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-3,,true,,23483,1318,5,5,null,1227,19254,287
+1746303120695,308,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-5,text,true,,17632,797,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,219,0,128
+1746303120695,219,01_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Generate Html 1-5,text,true,,531,390,5,5,https://unpkg.com/htmx.org@2.0.3,219,0,128
+1746303120914,89,01_01_ClickEnterJPetStoreDemo-1,200,OK,Generate Html 1-5,text,true,,17101,407,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,83,0,0
+1746303100539,1266,01_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-5,,true,,23462,1318,5,5,null,1177,19200,260
+1746303120839,315,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-4,text,true,,17660,797,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,233,0,137
+1746303120839,233,01_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Generate Html 1-4,text,true,,531,390,5,5,https://unpkg.com/htmx.org@2.0.3,233,0,137
+1746303121072,82,01_01_ClickEnterJPetStoreDemo-1,200,OK,Generate Html 1-4,text,true,,17129,407,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,74,0,0
+1746303100341,1257,01_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-4,,true,,23488,1318,5,5,null,1175,19559,272
+1746303156684,344,01_02_ClickOnSignIn,200,OK,Generate Html 1-1,text,true,,5548,600,5,5,https://jpetstore.aspectran.com/account/signonForm,343,0,0
+1746303157402,326,01_02_ClickOnSignIn,200,OK,Generate Html 1-2,text,true,,5548,600,5,5,https://jpetstore.aspectran.com/account/signonForm,324,0,0
+1746303157259,510,01_02_ClickOnSignIn,200,OK,Generate Html 1-1,text,true,,25801,530,5,5,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,460,0,136
+1746303119667,854,01_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-1,,true,,31349,1130,5,5,null,803,37252,136
+1746303157738,224,01_02_ClickOnSignIn,200,OK,Generate Html 1-2,text,true,,25801,530,5,5,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,171,0,121
+1746303120148,550,01_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-2,,true,,31349,1130,5,5,null,495,37268,121
+1746303157864,361,01_02_ClickOnSignIn,200,OK,Generate Html 1-3,text,true,,5548,599,5,5,https://jpetstore.aspectran.com/account/signonForm,361,0,0
+1746303157961,341,01_02_ClickOnSignIn,200,OK,Generate Html 1-5,text,true,,5548,601,5,5,https://jpetstore.aspectran.com/account/signonForm,340,0,0
+1746303158329,211,01_02_ClickOnSignIn,200,OK,Generate Html 1-3,text,true,,25801,530,5,5,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,162,0,118
+1746303120723,572,01_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-3,,true,,31349,1129,5,5,null,523,37248,118
+1746303158264,316,01_02_ClickOnSignIn,200,OK,Generate Html 1-4,text,true,,5548,599,5,5,https://jpetstore.aspectran.com/account/signonForm,313,0,0
+1746303158440,217,01_02_ClickOnSignIn,200,OK,Generate Html 1-5,text,true,,25801,530,5,5,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,167,0,119
+1746303121004,558,01_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-5,,true,,31349,1131,5,5,null,507,37098,119
+1746303158807,226,01_02_ClickOnSignIn,200,OK,Generate Html 1-4,text,true,,25801,530,5,5,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,173,0,123
+1746303121155,542,01_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-4,,true,,31349,1129,5,5,null,486,37339,123
+1746303208100,1372,01_03_EnterCredsAndClickLogin,200,OK,Generate Html 1-1,text,true,,6171,1457,5,5,https://jpetstore.aspectran.com/,1049,0,211
+1746303208100,1049,01_03_EnterCredsAndClickLogin-0,302,Found,Generate Html 1-1,,true,,252,767,5,5,https://jpetstore.aspectran.com/account/signon,1049,0,211
+1746303209150,322,01_03_EnterCredsAndClickLogin-1,200,OK,Generate Html 1-1,text,true,,5919,690,5,5,https://jpetstore.aspectran.com/,320,0,0
+1746303157770,1372,01_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,6171,1457,5,5,null,1049,50335,211
+1746303208100,1823,01_03_EnterCredsAndClickLogin,200,OK,Generate Html 1-2,text,true,,6171,1457,5,5,https://jpetstore.aspectran.com/,1413,0,463
+1746303208100,1413,01_03_EnterCredsAndClickLogin-0,302,Found,Generate Html 1-2,,true,,252,767,5,5,https://jpetstore.aspectran.com/account/signon,1413,0,463
+1746303209514,409,01_03_EnterCredsAndClickLogin-1,200,OK,Generate Html 1-2,text,true,,5919,690,5,5,https://jpetstore.aspectran.com/,405,0,0
+1746303157963,1823,01_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,6171,1457,5,5,null,1413,50141,463
+1746303208865,1277,01_03_EnterCredsAndClickLogin,200,OK,Generate Html 1-5,text,true,,6171,1459,5,5,https://jpetstore.aspectran.com/,962,0,134
+1746303208865,962,01_03_EnterCredsAndClickLogin-0,302,Found,Generate Html 1-5,,true,,252,768,5,5,https://jpetstore.aspectran.com/account/signon,962,0,134
+1746303209828,314,01_03_EnterCredsAndClickLogin-1,200,OK,Generate Html 1-5,text,true,,5919,691,5,5,https://jpetstore.aspectran.com/,314,0,0
+1746303158657,1277,01_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,6171,1459,5,5,null,962,50213,134
+1746303208961,1432,01_03_EnterCredsAndClickLogin,200,OK,Generate Html 1-3,text,true,,6171,1455,5,5,https://jpetstore.aspectran.com/,1075,0,230
+1746303208961,1075,01_03_EnterCredsAndClickLogin-0,302,Found,Generate Html 1-3,,true,,252,766,5,5,https://jpetstore.aspectran.com/account/signon,1075,0,230
+1746303210037,356,01_03_EnterCredsAndClickLogin-1,200,OK,Generate Html 1-3,text,true,,5919,689,5,5,https://jpetstore.aspectran.com/,356,0,0
+1746303158540,1432,01_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,6171,1455,5,5,null,1075,50426,230
+1746303209425,1590,01_03_EnterCredsAndClickLogin,200,OK,Generate Html 1-4,text,true,,6171,1455,5,5,https://jpetstore.aspectran.com/,1163,0,266
+1746303209425,1163,01_03_EnterCredsAndClickLogin-0,302,Found,Generate Html 1-4,,true,,252,766,5,5,https://jpetstore.aspectran.com/account/signon,1163,0,266
+1746303210589,426,01_03_EnterCredsAndClickLogin-1,200,OK,Generate Html 1-4,text,true,,5919,689,5,5,https://jpetstore.aspectran.com/,424,0,0
+1746303159033,1590,01_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,6171,1455,5,5,null,1163,50397,266
+1746303227935,338,01_04_ClickOnFish,200,OK,Generate Html 1-1,text,true,,5542,597,5,5,https://jpetstore.aspectran.com/categories/FISH,337,0,0
+1746303209473,338,01_04_ClickOnFish,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,5542,597,5,5,null,337,18463,0
+1746303228398,418,01_04_ClickOnFish,200,OK,Generate Html 1-2,text,true,,5542,597,5,5,https://jpetstore.aspectran.com/categories/FISH,418,0,0
+1746303209924,418,01_04_ClickOnFish,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,5542,597,5,5,null,418,18475,0
+1746303228734,390,01_04_ClickOnFish,200,OK,Generate Html 1-5,text,true,,5542,598,5,5,https://jpetstore.aspectran.com/categories/FISH,390,0,0
+1746303210143,390,01_04_ClickOnFish,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,5542,598,5,5,null,390,18593,0
+1746303229069,360,01_04_ClickOnFish,200,OK,Generate Html 1-3,text,true,,5542,596,5,5,https://jpetstore.aspectran.com/categories/FISH,360,0,0
+1746303210394,360,01_04_ClickOnFish,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,5542,596,5,5,null,360,18677,0
+1746303229691,383,01_04_ClickOnFish,200,OK,Generate Html 1-4,text,true,,5542,596,5,5,https://jpetstore.aspectran.com/categories/FISH,383,0,0
+1746303211016,383,01_04_ClickOnFish,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,5542,596,5,5,null,383,18677,0
+1746303243020,405,01_05_ClickOnProduct,200,OK,Generate Html 1-1,text,true,,5613,614,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,402,0,0
+1746303228273,405,01_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,5613,614,5,5,null,402,14749,0
+1746303243851,392,01_05_ClickOnProduct,200,OK,Generate Html 1-2,text,true,,5613,614,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,391,0,0
+1746303228816,392,01_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,5613,614,5,5,null,391,15036,0
+1746303244090,320,01_05_ClickOnProduct,200,OK,Generate Html 1-5,text,true,,5613,615,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,319,0,0
+1746303229125,320,01_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,5613,615,5,5,null,319,14966,0
+1746303244410,392,01_05_ClickOnProduct,200,OK,Generate Html 1-3,text,true,,5613,613,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,392,0,0
+1746303229430,392,01_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,5613,613,5,5,null,392,14982,0
+1746303244923,377,01_05_ClickOnProduct,200,OK,Generate Html 1-4,text,true,,5613,613,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,374,0,0
+1746303230075,377,01_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,5613,613,5,5,null,374,14849,0
+1746303269917,1288,01_06_ClickOnAddToCart,200,OK,Generate Html 1-1,text,true,,6273,1242,5,5,https://jpetstore.aspectran.com/cart/viewCart,962,0,133
+1746303269917,962,01_06_ClickOnAddToCart-0,302,Found,Generate Html 1-1,,true,,265,630,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,962,0,133
+1746303270879,326,01_06_ClickOnAddToCart-1,200,OK,Generate Html 1-1,text,true,,6008,612,5,5,https://jpetstore.aspectran.com/cart/viewCart,326,0,0
+1746303243426,1288,01_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,6273,1242,5,5,null,962,26493,133
+1746303271052,1291,01_06_ClickOnAddToCart,200,OK,Generate Html 1-2,text,true,,6273,1242,5,5,https://jpetstore.aspectran.com/cart/viewCart,969,0,155
+1746303271052,969,01_06_ClickOnAddToCart-0,302,Found,Generate Html 1-2,,true,,265,630,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,969,0,155
+1746303272021,322,01_06_ClickOnAddToCart-1,200,OK,Generate Html 1-2,text,true,,6008,612,5,5,https://jpetstore.aspectran.com/cart/viewCart,321,0,0
+1746303244243,1291,01_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,6273,1242,5,5,null,969,26811,155
+1746303270956,1395,01_06_ClickOnAddToCart,200,OK,Generate Html 1-5,text,true,,6273,1244,5,5,https://jpetstore.aspectran.com/cart/viewCart,1021,0,184
+1746303270956,1021,01_06_ClickOnAddToCart-0,302,Found,Generate Html 1-5,,true,,265,631,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,1021,0,184
+1746303271977,374,01_06_ClickOnAddToCart-1,200,OK,Generate Html 1-5,text,true,,6008,613,5,5,https://jpetstore.aspectran.com/cart/viewCart,368,0,0
+1746303244410,1395,01_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,6273,1244,5,5,null,1021,26548,184
+1746303271592,1531,01_06_ClickOnAddToCart,200,OK,Generate Html 1-3,text,true,,6273,1240,5,5,https://jpetstore.aspectran.com/cart/viewCart,1174,0,273
+1746303271592,1174,01_06_ClickOnAddToCart-0,302,Found,Generate Html 1-3,,true,,265,629,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,1174,0,273
+1746303272767,356,01_06_ClickOnAddToCart-1,200,OK,Generate Html 1-3,text,true,,6008,611,5,5,https://jpetstore.aspectran.com/cart/viewCart,353,0,0
+1746303244803,1531,01_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,6273,1240,5,5,null,1174,26791,273
+1746303272111,1613,01_06_ClickOnAddToCart,200,OK,Generate Html 1-4,text,true,,6273,1240,5,5,https://jpetstore.aspectran.com/cart/viewCart,1162,0,290
+1746303272111,1162,01_06_ClickOnAddToCart-0,302,Found,Generate Html 1-4,,true,,265,629,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,1162,0,290
+1746303273273,451,01_06_ClickOnAddToCart-1,200,OK,Generate Html 1-4,text,true,,6008,611,5,5,https://jpetstore.aspectran.com/cart/viewCart,450,0,0
+1746303245300,1613,01_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,6273,1240,5,5,null,1162,26813,290
+1746303287277,320,01_07_ClickOnProceedToCheckOut,200,OK,Generate Html 1-1,text,true,,6037,613,5,5,https://jpetstore.aspectran.com/order/newOrderForm,318,0,0
+1746303271205,320,01_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,6037,613,5,5,null,318,16073,0
+1746303288322,316,01_07_ClickOnProceedToCheckOut,200,OK,Generate Html 1-5,text,true,,6037,614,5,5,https://jpetstore.aspectran.com/order/newOrderForm,315,0,0
+1746303272351,316,01_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,6037,614,5,5,null,315,15973,0
+1746303288336,327,01_07_ClickOnProceedToCheckOut,200,OK,Generate Html 1-2,text,true,,6037,613,5,5,https://jpetstore.aspectran.com/order/newOrderForm,322,0,0
+1746303272344,327,01_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,6037,613,5,5,null,322,15993,0
+1746303289356,318,01_07_ClickOnProceedToCheckOut,200,OK,Generate Html 1-3,text,true,,6037,612,5,5,https://jpetstore.aspectran.com/order/newOrderForm,318,0,0
+1746303273123,318,01_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,6037,612,5,5,null,318,16235,0
+1746303289910,340,01_07_ClickOnProceedToCheckOut,200,OK,Generate Html 1-4,text,true,,6037,612,5,5,https://jpetstore.aspectran.com/order/newOrderForm,337,0,0
+1746303273725,340,01_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,6037,612,5,5,null,337,16186,0
+1746303306669,340,01_08_EnterPaymentDetailsAndContinue,200,OK,Generate Html 1-1,text,true,,5856,1016,5,5,https://jpetstore.aspectran.com/order/newOrder,338,0,0
+1746303287598,340,01_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,5856,1016,5,5,null,338,19072,0
+1746303307432,327,01_08_EnterPaymentDetailsAndContinue,200,OK,Generate Html 1-5,text,true,,5856,1017,5,5,https://jpetstore.aspectran.com/order/newOrder,325,0,0
+1746303288639,327,01_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,5856,1017,5,5,null,325,18794,0
+1746303307671,365,01_08_EnterPaymentDetailsAndContinue,200,OK,Generate Html 1-2,text,true,,5856,1016,5,5,https://jpetstore.aspectran.com/order/newOrder,361,0,0
+1746303288664,365,01_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,5856,1016,5,5,null,361,19008,0
+1746303308605,352,01_08_EnterPaymentDetailsAndContinue,200,OK,Generate Html 1-3,text,true,,5857,1015,5,5,https://jpetstore.aspectran.com/order/newOrder,350,0,0
+1746303289675,352,01_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,5857,1015,5,5,null,350,18932,0
+1746303308969,427,01_08_EnterPaymentDetailsAndContinue,200,OK,Generate Html 1-4,text,true,,5857,1015,5,5,https://jpetstore.aspectran.com/order/newOrder,425,0,0
+1746303290251,427,01_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,5857,1015,5,5,null,425,18720,0
+1746303322874,703,01_09_ClickOnConfirm,200,OK,Generate Html 1-1,text,true,,6427,1468,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15679&submitted=true,332,0,0
+1746303322874,332,01_09_ClickOnConfirm-0,302,Found,Generate Html 1-1,,true,,296,738,5,5,https://jpetstore.aspectran.com/order/submitOrder,332,0,0
+1746303323207,370,01_09_ClickOnConfirm-1,200,OK,Generate Html 1-1,text,true,,6131,730,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15679&submitted=true,365,0,0
+1746303307009,703,01_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,6427,1468,5,5,null,332,15867,0
+1746303323603,738,01_09_ClickOnConfirm,200,OK,Generate Html 1-5,text,true,,6437,1470,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15680&submitted=true,337,0,0
+1746303323603,337,01_09_ClickOnConfirm-0,302,Found,Generate Html 1-5,,true,,296,739,5,5,https://jpetstore.aspectran.com/order/submitOrder,337,0,0
+1746303323940,401,01_09_ClickOnConfirm-1,200,OK,Generate Html 1-5,text,true,,6141,731,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15680&submitted=true,395,0,0
+1746303307759,738,01_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,6437,1470,5,5,null,337,15847,0
+1746303323863,675,01_09_ClickOnConfirm,200,OK,Generate Html 1-2,text,true,,6434,1468,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15681&submitted=true,333,0,0
+1746303323863,333,01_09_ClickOnConfirm-0,302,Found,Generate Html 1-2,,true,,296,738,5,5,https://jpetstore.aspectran.com/order/submitOrder,333,0,0
+1746303324196,342,01_09_ClickOnConfirm-1,200,OK,Generate Html 1-2,text,true,,6138,730,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15681&submitted=true,340,0,0
+1746303308036,675,01_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,6434,1468,5,5,null,333,15829,0
+1746303324595,771,01_09_ClickOnConfirm,200,OK,Generate Html 1-3,text,true,,6432,1466,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15682&submitted=true,367,0,0
+1746303324595,367,01_09_ClickOnConfirm-0,302,Found,Generate Html 1-3,,true,,296,737,5,5,https://jpetstore.aspectran.com/order/submitOrder,367,0,0
+1746303324962,404,01_09_ClickOnConfirm-1,200,OK,Generate Html 1-3,text,true,,6136,729,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15682&submitted=true,390,0,0
+1746303308958,771,01_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,6432,1466,5,5,null,367,15639,0
+1746303325131,889,01_09_ClickOnConfirm,200,OK,Generate Html 1-4,text,true,,6432,1466,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15683&submitted=true,429,0,0
+1746303325131,429,01_09_ClickOnConfirm-0,302,Found,Generate Html 1-4,,true,,296,737,5,5,https://jpetstore.aspectran.com/order/submitOrder,429,0,0
+1746303325560,460,01_09_ClickOnConfirm-1,200,OK,Generate Html 1-4,text,true,,6136,729,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15683&submitted=true,457,0,0
+1746303309397,889,01_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,6432,1466,5,5,null,429,15736,0
+1746303340678,1816,01_10_ClickOnSignOut,200,OK,Generate Html 1-1,text,true,,6221,1267,5,5,https://jpetstore.aspectran.com/,1355,0,395
+1746303340678,1355,01_10_ClickOnSignOut-0,302,Found,Generate Html 1-1,,true,,392,641,5,5,https://jpetstore.aspectran.com/account/signoff,1355,0,395
+1746303342033,461,01_10_ClickOnSignOut-1,200,OK,Generate Html 1-1,text,true,,5829,626,5,5,https://jpetstore.aspectran.com/,461,0,0
+1746303323577,1816,01_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,6221,1267,5,5,null,1355,17103,395
+1746303341562,1356,01_10_ClickOnSignOut,200,OK,Generate Html 1-2,text,true,,6220,1267,5,5,https://jpetstore.aspectran.com/,998,0,160
+1746303341562,998,01_10_ClickOnSignOut-0,302,Found,Generate Html 1-2,,true,,392,641,5,5,https://jpetstore.aspectran.com/account/signoff,998,0,160
+1746303342560,358,01_10_ClickOnSignOut-1,200,OK,Generate Html 1-2,text,true,,5828,626,5,5,https://jpetstore.aspectran.com/,356,0,0
+1746303324538,1356,01_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,6220,1267,5,5,null,998,17025,160
+1746303342190,1801,01_10_ClickOnSignOut,200,OK,Generate Html 1-3,text,true,,6220,1265,5,5,https://jpetstore.aspectran.com/,1395,0,438
+1746303342190,1395,01_10_ClickOnSignOut-0,302,Found,Generate Html 1-3,,true,,391,640,5,5,https://jpetstore.aspectran.com/account/signoff,1395,0,438
+1746303343585,406,01_10_ClickOnSignOut-1,200,OK,Generate Html 1-3,text,true,,5829,625,5,5,https://jpetstore.aspectran.com/,406,0,0
+1746303325366,1801,01_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,6220,1265,5,5,null,1395,16826,438
+1746303343014,1465,01_10_ClickOnSignOut,200,OK,Generate Html 1-4,text,true,,6220,1265,5,5,https://jpetstore.aspectran.com/,1111,0,242
+1746303343014,1111,01_10_ClickOnSignOut-0,302,Found,Generate Html 1-4,,true,,391,640,5,5,https://jpetstore.aspectran.com/account/signoff,1111,0,242
+1746303344125,354,01_10_ClickOnSignOut-1,200,OK,Generate Html 1-4,text,true,,5829,625,5,5,https://jpetstore.aspectran.com/,354,0,0
+1746303326020,1465,01_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,6220,1265,5,5,null,1111,16995,242
+1746303341477,3565,01_10_ClickOnSignOut,200,OK,Generate Html 1-5,text,true,,6222,1269,5,5,https://jpetstore.aspectran.com/,2349,0,1389
+1746303341477,2349,01_10_ClickOnSignOut-0,302,Found,Generate Html 1-5,,true,,393,642,5,5,https://jpetstore.aspectran.com/account/signoff,2349,0,1389
+1746303343827,1215,01_10_ClickOnSignOut-1,200,OK,Generate Html 1-5,text,true,,5829,627,5,5,https://jpetstore.aspectran.com/,1021,0,0
+1746303324342,3565,01_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,6222,1269,5,5,null,2349,17136,1389
+1746303361617,453,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-1,text,true,,5739,577,5,5,https://jpetstore.aspectran.com/,450,0,0
+1746303361974,415,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-2,text,true,,5739,576,5,5,https://jpetstore.aspectran.com/,414,0,0
+1746303362181,330,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-1,text,true,,17660,797,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,232,0,136
+1746303362181,232,01_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Generate Html 1-1,text,true,,531,390,5,5,https://unpkg.com/htmx.org@2.0.3,232,0,136
+1746303362413,98,01_01_ClickEnterJPetStoreDemo-1,200,OK,Generate Html 1-1,text,true,,17129,407,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,87,0,0
+1746303342495,783,01_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-1,,true,,23399,1374,5,5,null,682,19234,136
+1746303362613,307,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-2,text,true,,17655,797,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,214,0,118
+1746303362613,214,01_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Generate Html 1-2,text,true,,531,390,5,5,https://unpkg.com/htmx.org@2.0.3,214,0,118
+1746303362827,93,01_01_ClickEnterJPetStoreDemo-1,200,OK,Generate Html 1-2,text,true,,17124,407,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,83,0,0
+1746303342919,722,01_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-2,,true,,23394,1373,5,5,null,628,19280,118
+1746303362806,370,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-3,text,true,,5739,577,5,5,https://jpetstore.aspectran.com/,370,0,0
+1746303363338,342,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-3,text,true,,17645,797,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,229,0,130
+1746303363338,229,01_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Generate Html 1-3,text,true,,531,390,5,5,https://unpkg.com/htmx.org@2.0.3,229,0,130
+1746303363568,112,01_01_ClickEnterJPetStoreDemo-1,200,OK,Generate Html 1-3,text,true,,17114,407,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,108,0,0
+1746303343993,712,01_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-3,,true,,23384,1374,5,5,null,599,18976,130
+1746303363552,352,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-4,text,true,,5739,577,5,5,https://jpetstore.aspectran.com/,351,0,0
+1746303364226,290,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-4,text,true,,17645,797,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,199,0,116
+1746303364226,199,01_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Generate Html 1-4,text,true,,531,390,5,5,https://unpkg.com/htmx.org@2.0.3,199,0,116
+1746303364425,91,01_01_ClickEnterJPetStoreDemo-1,200,OK,Generate Html 1-4,text,true,,17114,407,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,82,0,0
+1746303344480,642,01_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-4,,true,,23384,1374,5,5,null,550,19396,116
+1746303364144,441,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-5,text,true,,5739,577,5,5,https://jpetstore.aspectran.com/,441,0,0
+1746303364775,297,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-5,text,true,,17640,797,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,211,0,118
+1746303364775,211,01_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Generate Html 1-5,text,true,,531,390,5,5,https://unpkg.com/htmx.org@2.0.3,211,0,118
+1746303364986,86,01_01_ClickEnterJPetStoreDemo-1,200,OK,Generate Html 1-5,text,true,,17109,407,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,80,0,0
+1746303345043,738,01_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-5,,true,,23379,1374,5,5,null,652,19292,118
+1746303399536,442,01_02_ClickOnSignIn,200,OK,Generate Html 1-1,text,true,,5548,600,5,5,https://jpetstore.aspectran.com/account/signonForm,437,0,0
+1746303400103,311,01_02_ClickOnSignIn,200,OK,Generate Html 1-2,text,true,,5548,599,5,5,https://jpetstore.aspectran.com/account/signonForm,311,0,0
+1746303400359,243,01_02_ClickOnSignIn,200,OK,Generate Html 1-1,text,true,,25801,530,5,5,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,191,0,145
+1746303362511,685,01_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-1,,true,,31349,1130,5,5,null,628,37410,145
+1746303400787,229,01_02_ClickOnSignIn,200,OK,Generate Html 1-2,text,true,,25801,530,5,5,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,174,0,127
+1746303362920,540,01_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-2,,true,,31349,1129,5,5,null,485,37559,127
+1746303400851,321,01_02_ClickOnSignIn,200,OK,Generate Html 1-3,text,true,,5548,600,5,5,https://jpetstore.aspectran.com/account/signonForm,321,0,0
+1746303401571,218,01_02_ClickOnSignIn,200,OK,Generate Html 1-3,text,true,,25801,530,5,5,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,164,0,116
+1746303363680,539,01_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-3,,true,,31349,1130,5,5,null,485,37573,116
+1746303401476,319,01_02_ClickOnSignIn,200,OK,Generate Html 1-4,text,true,,5548,600,5,5,https://jpetstore.aspectran.com/account/signonForm,317,0,0
+1746303402042,220,01_02_ClickOnSignIn,200,OK,Generate Html 1-4,text,true,,25801,530,5,5,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,164,0,117
+1746303364517,539,01_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-4,,true,,31349,1130,5,5,null,481,37210,117
+1746303402151,868,01_02_ClickOnSignIn,200,OK,Generate Html 1-5,text,true,,5548,600,5,5,https://jpetstore.aspectran.com/account/signonForm,867,0,129
+1746303403176,245,01_02_ClickOnSignIn,200,OK,Generate Html 1-5,text,true,,25801,530,5,5,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,185,0,129
+1746303365072,1113,01_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-5,,true,,31349,1130,5,5,null,1052,37240,258
+1746303450769,1106,01_03_EnterCredsAndClickLogin,200,OK,Generate Html 1-1,text,true,,6171,1457,5,5,https://jpetstore.aspectran.com/,686,0,291
+1746303450769,686,01_03_EnterCredsAndClickLogin-0,302,Found,Generate Html 1-1,,true,,252,767,5,5,https://jpetstore.aspectran.com/account/signon,686,0,291
+1746303451456,419,01_03_EnterCredsAndClickLogin-1,200,OK,Generate Html 1-1,text,true,,5919,690,5,5,https://jpetstore.aspectran.com/,419,0,0
+1746303400603,1106,01_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,6171,1457,5,5,null,686,50171,291
+1746303452019,852,01_03_EnterCredsAndClickLogin,200,OK,Generate Html 1-3,text,true,,6171,1457,5,5,https://jpetstore.aspectran.com/,537,0,208
+1746303452019,537,01_03_EnterCredsAndClickLogin-0,302,Found,Generate Html 1-3,,true,,252,767,5,5,https://jpetstore.aspectran.com/account/signon,537,0,208
+1746303452556,315,01_03_EnterCredsAndClickLogin-1,200,OK,Generate Html 1-3,text,true,,5919,690,5,5,https://jpetstore.aspectran.com/,314,0,0
+1746303401788,852,01_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,6171,1457,5,5,null,537,50234,208
+1746303451287,1723,01_03_EnterCredsAndClickLogin,200,OK,Generate Html 1-2,text,true,,6171,1455,5,5,https://jpetstore.aspectran.com/,1295,0,351
+1746303451287,1295,01_03_EnterCredsAndClickLogin-0,302,Found,Generate Html 1-2,,true,,252,766,5,5,https://jpetstore.aspectran.com/account/signon,1295,0,351
+1746303452582,428,01_03_EnterCredsAndClickLogin-1,200,OK,Generate Html 1-2,text,true,,5919,689,5,5,https://jpetstore.aspectran.com/,426,0,0
+1746303401016,1723,01_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,6171,1455,5,5,null,1295,50276,351
+1746303452709,1239,01_03_EnterCredsAndClickLogin,200,OK,Generate Html 1-4,text,true,,6171,1457,5,5,https://jpetstore.aspectran.com/,932,0,123
+1746303452709,932,01_03_EnterCredsAndClickLogin-0,302,Found,Generate Html 1-4,,true,,252,767,5,5,https://jpetstore.aspectran.com/account/signon,932,0,123
+1746303453641,307,01_03_EnterCredsAndClickLogin-1,200,OK,Generate Html 1-4,text,true,,5919,690,5,5,https://jpetstore.aspectran.com/,305,0,0
+1746303402262,1239,01_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,6171,1457,5,5,null,932,50451,123
+1746303453704,576,01_03_EnterCredsAndClickLogin,200,OK,Generate Html 1-5,text,true,,6171,1457,5,5,https://jpetstore.aspectran.com/,286,0,0
+1746303453704,286,01_03_EnterCredsAndClickLogin-0,302,Found,Generate Html 1-5,,true,,252,767,5,5,https://jpetstore.aspectran.com/account/signon,286,0,0
+1746303453991,289,01_03_EnterCredsAndClickLogin-1,200,OK,Generate Html 1-5,text,true,,5919,690,5,5,https://jpetstore.aspectran.com/,289,0,0
+1746303403421,576,01_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,6171,1457,5,5,null,286,50287,0
+1746303470448,436,01_04_ClickOnFish,200,OK,Generate Html 1-1,text,true,,5542,597,5,5,https://jpetstore.aspectran.com/categories/FISH,435,0,0
+1746303451876,436,01_04_ClickOnFish,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,5542,597,5,5,null,435,18573,0
+1746303471360,319,01_04_ClickOnFish,200,OK,Generate Html 1-3,text,true,,5542,597,5,5,https://jpetstore.aspectran.com/categories/FISH,319,0,0
+1746303452872,319,01_04_ClickOnFish,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,5542,597,5,5,null,319,18489,0
+1746303471534,428,01_04_ClickOnFish,200,OK,Generate Html 1-2,text,true,,5542,596,5,5,https://jpetstore.aspectran.com/categories/FISH,428,0,0
+1746303453011,428,01_04_ClickOnFish,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,5542,596,5,5,null,428,18524,0
+1746303472415,336,01_04_ClickOnFish,200,OK,Generate Html 1-4,text,true,,5542,597,5,5,https://jpetstore.aspectran.com/categories/FISH,336,0,0
+1746303453949,336,01_04_ClickOnFish,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,5542,597,5,5,null,336,18469,0
+1746303472692,1302,01_04_ClickOnFish,200,OK,Generate Html 1-5,text,true,,5542,597,5,5,https://jpetstore.aspectran.com/categories/FISH,1302,0,385
+1746303454281,1302,01_04_ClickOnFish,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,5542,597,5,5,null,1302,18414,385
+1746303485824,427,01_05_ClickOnProduct,200,OK,Generate Html 1-1,text,true,,5613,614,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,423,0,0
+1746303470884,427,01_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,5613,614,5,5,null,423,14941,0
+1746303486597,365,01_05_ClickOnProduct,200,OK,Generate Html 1-3,text,true,,5613,614,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,364,0,0
+1746303471680,365,01_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,5613,614,5,5,null,364,14918,0
+1746303486919,459,01_05_ClickOnProduct,200,OK,Generate Html 1-2,text,true,,5613,613,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,459,0,0
+1746303471962,459,01_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,5613,613,5,5,null,459,14958,0
+1746303487541,329,01_05_ClickOnProduct,200,OK,Generate Html 1-4,text,true,,5613,614,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,328,0,0
+1746303472752,329,01_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,5613,614,5,5,null,328,14789,0
+1746303488953,473,01_05_ClickOnProduct,200,OK,Generate Html 1-5,text,true,,5613,614,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,473,0,0
+1746303473995,473,01_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,5613,614,5,5,null,473,14958,0
+1746303512846,1339,01_06_ClickOnAddToCart,200,OK,Generate Html 1-1,text,true,,6273,1242,5,5,https://jpetstore.aspectran.com/cart/viewCart,1021,0,201
+1746303512846,1021,01_06_ClickOnAddToCart-0,302,Found,Generate Html 1-1,,true,,265,630,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,1021,0,201
+1746303513867,318,01_06_ClickOnAddToCart-1,200,OK,Generate Html 1-1,text,true,,6008,612,5,5,https://jpetstore.aspectran.com/cart/viewCart,313,0,0
+1746303486251,1339,01_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,6273,1242,5,5,null,1021,26598,201
+1746303513565,774,01_06_ClickOnAddToCart,200,OK,Generate Html 1-3,text,true,,6273,1242,5,5,https://jpetstore.aspectran.com/cart/viewCart,446,0,126
+1746303513565,446,01_06_ClickOnAddToCart-0,302,Found,Generate Html 1-3,,true,,265,630,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,446,0,126
+1746303514011,328,01_06_ClickOnAddToCart-1,200,OK,Generate Html 1-3,text,true,,6008,612,5,5,https://jpetstore.aspectran.com/cart/viewCart,321,0,0
+1746303486962,774,01_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,6273,1242,5,5,null,446,26606,126
+1746303514030,1251,01_06_ClickOnAddToCart,200,OK,Generate Html 1-2,text,true,,6273,1240,5,5,https://jpetstore.aspectran.com/cart/viewCart,890,0,140
+1746303514030,890,01_06_ClickOnAddToCart-0,302,Found,Generate Html 1-2,,true,,265,629,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,890,0,140
+1746303514921,360,01_06_ClickOnAddToCart-1,200,OK,Generate Html 1-2,text,true,,6008,611,5,5,https://jpetstore.aspectran.com/cart/viewCart,358,0,0
+1746303487379,1251,01_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,6273,1240,5,5,null,890,26654,140
+1746303514494,2591,01_06_ClickOnAddToCart,200,OK,Generate Html 1-4,text,true,,6273,1242,5,5,https://jpetstore.aspectran.com/cart/viewCart,862,0,388
+1746303514494,862,01_06_ClickOnAddToCart-0,302,Found,Generate Html 1-4,,true,,265,630,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,862,0,388
+1746303515357,1728,01_06_ClickOnAddToCart-1,200,OK,Generate Html 1-4,text,true,,6008,612,5,5,https://jpetstore.aspectran.com/cart/viewCart,1556,0,0
+1746303487871,2591,01_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,6273,1242,5,5,null,862,26626,388
+1746303516238,857,01_06_ClickOnAddToCart,200,OK,Generate Html 1-5,text,true,,6273,1242,5,5,https://jpetstore.aspectran.com/cart/viewCart,438,0,0
+1746303516238,438,01_06_ClickOnAddToCart-0,302,Found,Generate Html 1-5,,true,,265,630,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,438,0,0
+1746303516676,419,01_06_ClickOnAddToCart-1,200,OK,Generate Html 1-5,text,true,,6008,612,5,5,https://jpetstore.aspectran.com/cart/viewCart,419,0,0
+1746303489426,857,01_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,6273,1242,5,5,null,438,26814,0
+1746303530341,476,01_07_ClickOnProceedToCheckOut,200,OK,Generate Html 1-1,text,true,,6037,613,5,5,https://jpetstore.aspectran.com/order/newOrderForm,476,0,0
+1746303514186,476,01_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,6037,613,5,5,null,476,16157,0
+1746303530557,389,01_07_ClickOnProceedToCheckOut,200,OK,Generate Html 1-3,text,true,,6037,613,5,5,https://jpetstore.aspectran.com/order/newOrderForm,377,0,0
+1746303514340,389,01_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,6037,613,5,5,null,377,16218,0
+1746303531460,295,01_07_ClickOnProceedToCheckOut,200,OK,Generate Html 1-2,text,true,,6037,612,5,5,https://jpetstore.aspectran.com/order/newOrderForm,289,0,0
+1746303515282,295,01_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,6037,612,5,5,null,289,16179,0
+1746303533316,856,01_07_ClickOnProceedToCheckOut,200,OK,Generate Html 1-5,text,true,,6037,613,5,5,https://jpetstore.aspectran.com/order/newOrderForm,856,0,123
+1746303517094,856,01_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,6037,613,5,5,null,856,16223,123
+1746303532983,4261,01_07_ClickOnProceedToCheckOut,200,OK,Generate Html 1-4,text,true,,6037,613,5,5,https://jpetstore.aspectran.com/order/newOrderForm,4081,0,0
+1746303517085,4261,01_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,6037,613,5,5,null,4081,15900,0
+1746303549662,328,01_08_EnterPaymentDetailsAndContinue,200,OK,Generate Html 1-1,text,true,,5855,1016,5,5,https://jpetstore.aspectran.com/order/newOrder,325,0,0
+1746303530818,328,01_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,5855,1016,5,5,null,325,18846,0
+1746303549996,384,01_08_EnterPaymentDetailsAndContinue,200,OK,Generate Html 1-3,text,true,,5855,1016,5,5,https://jpetstore.aspectran.com/order/newOrder,379,0,0
+1746303530946,384,01_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,5855,1016,5,5,null,379,19053,0
+1746303550607,295,01_08_EnterPaymentDetailsAndContinue,200,OK,Generate Html 1-2,text,true,,5856,1015,5,5,https://jpetstore.aspectran.com/order/newOrder,291,0,0
+1746303531755,295,01_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,5856,1015,5,5,null,291,18854,0
+1746303553209,291,01_08_EnterPaymentDetailsAndContinue,200,OK,Generate Html 1-5,text,true,,5856,1016,5,5,https://jpetstore.aspectran.com/order/newOrder,291,0,0
+1746303534172,291,01_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,5856,1016,5,5,null,291,19038,0
+1746303556271,5205,01_08_EnterPaymentDetailsAndContinue,200,OK,Generate Html 1-4,text,true,,5856,1016,5,5,https://jpetstore.aspectran.com/order/newOrder,5041,0,0
+1746303537245,5205,01_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,5856,1016,5,5,null,5041,19027,0
+1746303565834,712,01_09_ClickOnConfirm,200,OK,Generate Html 1-1,text,true,,6433,1468,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15684&submitted=true,336,0,0
+1746303565834,336,01_09_ClickOnConfirm-0,302,Found,Generate Html 1-1,,true,,296,738,5,5,https://jpetstore.aspectran.com/order/submitOrder,336,0,0
+1746303566171,375,01_09_ClickOnConfirm-1,200,OK,Generate Html 1-1,text,true,,6137,730,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15684&submitted=true,375,0,0
+1746303549990,712,01_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,6433,1468,5,5,null,336,15845,0
+1746303566023,726,01_09_ClickOnConfirm,200,OK,Generate Html 1-3,text,true,,6433,1468,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15685&submitted=true,346,0,0
+1746303566023,346,01_09_ClickOnConfirm-0,302,Found,Generate Html 1-3,,true,,296,738,5,5,https://jpetstore.aspectran.com/order/submitOrder,346,0,0
+1746303566370,379,01_09_ClickOnConfirm-1,200,OK,Generate Html 1-3,text,true,,6137,730,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15685&submitted=true,377,0,0
+1746303550381,726,01_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,6433,1468,5,5,null,346,15644,0
+1746303566740,668,01_09_ClickOnConfirm,200,OK,Generate Html 1-2,text,true,,6429,1466,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15686&submitted=true,319,0,0
+1746303566740,319,01_09_ClickOnConfirm-0,302,Found,Generate Html 1-2,,true,,296,737,5,5,https://jpetstore.aspectran.com/order/submitOrder,319,0,0
+1746303567059,349,01_09_ClickOnConfirm-1,200,OK,Generate Html 1-2,text,true,,6133,729,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15686&submitted=true,347,0,0
+1746303550902,668,01_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,6429,1466,5,5,null,319,15839,0
+1746303569160,652,01_09_ClickOnConfirm,200,OK,Generate Html 1-5,text,true,,6429,1468,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15687&submitted=true,309,0,0
+1746303569160,309,01_09_ClickOnConfirm-0,302,Found,Generate Html 1-5,,true,,296,738,5,5,https://jpetstore.aspectran.com/order/submitOrder,309,0,0
+1746303569469,343,01_09_ClickOnConfirm-1,200,OK,Generate Html 1-5,text,true,,6133,730,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15687&submitted=true,343,0,0
+1746303553500,652,01_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,6429,1468,5,5,null,309,15661,0
+1746303577370,2525,01_09_ClickOnConfirm,200,OK,Generate Html 1-4,text,true,,6431,1468,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15688&submitted=true,2025,0,997
+1746303577370,2025,01_09_ClickOnConfirm-0,302,Found,Generate Html 1-4,,true,,296,738,5,5,https://jpetstore.aspectran.com/order/submitOrder,2025,0,997
+1746303579395,500,01_09_ClickOnConfirm-1,200,OK,Generate Html 1-4,text,true,,6135,730,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15688&submitted=true,498,0,0
+1746303561476,2525,01_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,6431,1468,5,5,null,2025,15897,997
+1746303583496,1329,01_10_ClickOnSignOut,200,OK,Generate Html 1-1,text,true,,6222,1267,5,5,https://jpetstore.aspectran.com/,984,0,127
+1746303583496,984,01_10_ClickOnSignOut-0,302,Found,Generate Html 1-1,,true,,392,641,5,5,https://jpetstore.aspectran.com/account/signoff,984,0,127
+1746303584481,344,01_10_ClickOnSignOut-1,200,OK,Generate Html 1-1,text,true,,5830,626,5,5,https://jpetstore.aspectran.com/,344,0,0
+1746303566546,1329,01_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,6222,1267,5,5,null,984,16952,127
+1746303583835,1311,01_10_ClickOnSignOut,200,OK,Generate Html 1-3,text,true,,6221,1267,5,5,https://jpetstore.aspectran.com/,979,0,124
+1746303583835,979,01_10_ClickOnSignOut-0,302,Found,Generate Html 1-3,,true,,392,641,5,5,https://jpetstore.aspectran.com/account/signoff,979,0,124
+1746303584815,331,01_10_ClickOnSignOut-1,200,OK,Generate Html 1-3,text,true,,5829,626,5,5,https://jpetstore.aspectran.com/,329,0,0
+1746303566750,1311,01_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,6221,1267,5,5,null,979,17087,124
+1746303584447,818,01_10_ClickOnSignOut,200,OK,Generate Html 1-2,text,true,,6219,1265,5,5,https://jpetstore.aspectran.com/,487,0,138
+1746303584447,487,01_10_ClickOnSignOut-0,302,Found,Generate Html 1-2,,true,,391,640,5,5,https://jpetstore.aspectran.com/account/signoff,487,0,138
+1746303584934,331,01_10_ClickOnSignOut-1,200,OK,Generate Html 1-2,text,true,,5828,625,5,5,https://jpetstore.aspectran.com/,331,0,0
+1746303567408,818,01_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,6219,1265,5,5,null,487,17041,138
+1746303586685,577,01_10_ClickOnSignOut,200,OK,Generate Html 1-5,text,true,,6220,1267,5,5,https://jpetstore.aspectran.com/,291,0,0
+1746303586685,291,01_10_ClickOnSignOut-0,302,Found,Generate Html 1-5,,true,,392,641,5,5,https://jpetstore.aspectran.com/account/signoff,291,0,0
+1746303586975,287,01_10_ClickOnSignOut-1,200,OK,Generate Html 1-5,text,true,,5828,626,5,5,https://jpetstore.aspectran.com/,287,0,0
+1746303569812,577,01_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,6220,1267,5,5,null,291,16876,0
+1746303597024,888,01_10_ClickOnSignOut,200,OK,Generate Html 1-4,text,true,,6220,1267,5,5,https://jpetstore.aspectran.com/,425,0,0
+1746303597024,425,01_10_ClickOnSignOut-0,302,Found,Generate Html 1-4,,true,,392,641,5,5,https://jpetstore.aspectran.com/account/signoff,425,0,0
+1746303597450,462,01_10_ClickOnSignOut-1,200,OK,Generate Html 1-4,text,true,,5828,626,5,5,https://jpetstore.aspectran.com/,461,0,0
+1746303579896,888,01_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,6220,1267,5,5,null,425,17130,0
+1746303603841,333,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-1,text,true,,5739,578,5,5,https://jpetstore.aspectran.com/,333,0,0
+1746303604063,330,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-2,text,true,,5739,576,5,5,https://jpetstore.aspectran.com/,327,0,0
+1746303604298,352,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-3,text,true,,5739,577,5,5,https://jpetstore.aspectran.com/,352,0,0
+1746303604413,324,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-1,text,true,,17655,797,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,239,0,138
+1746303604413,239,01_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Generate Html 1-1,text,true,,531,390,5,5,https://unpkg.com/htmx.org@2.0.3,239,0,138
+1746303604652,85,01_01_ClickEnterJPetStoreDemo-1,200,OK,Generate Html 1-1,text,true,,17124,407,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,80,0,0
+1746303584826,657,01_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-1,,true,,23394,1375,5,5,null,572,19257,138
+1746303604783,304,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-2,text,true,,17626,797,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,217,0,118
+1746303604783,217,01_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Generate Html 1-2,text,true,,531,390,5,5,https://unpkg.com/htmx.org@2.0.3,217,0,118
+1746303605000,87,01_01_ClickEnterJPetStoreDemo-1,200,OK,Generate Html 1-2,text,true,,17095,407,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,74,0,0
+1746303585266,634,01_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-2,,true,,23365,1373,5,5,null,544,19190,118
+1746303604960,319,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-3,text,true,,17655,797,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,224,0,128
+1746303604960,224,01_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Generate Html 1-3,text,true,,531,390,5,5,https://unpkg.com/htmx.org@2.0.3,224,0,128
+1746303605184,95,01_01_ClickEnterJPetStoreDemo-1,200,OK,Generate Html 1-3,text,true,,17124,407,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,89,0,0
+1746303585147,671,01_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-3,,true,,23394,1374,5,5,null,576,19463,128
+1746303606309,963,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-5,text,true,,5739,576,5,5,https://jpetstore.aspectran.com/,961,0,155
+1746303607322,368,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-5,text,true,,17645,797,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,246,0,123
+1746303607322,247,01_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Generate Html 1-5,text,true,,531,390,5,5,https://unpkg.com/htmx.org@2.0.3,246,0,123
+1746303607569,121,01_01_ClickEnterJPetStoreDemo-1,200,OK,Generate Html 1-5,text,true,,17114,407,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,113,0,0
+1746303587263,1331,01_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-5,,true,,23384,1373,5,5,null,1207,19097,278
+1746303616991,457,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-4,text,true,,5739,576,5,5,https://jpetstore.aspectran.com/,451,0,0
+1746303617645,298,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-4,text,true,,17645,797,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,209,0,122
+1746303617645,209,01_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Generate Html 1-4,text,true,,531,390,5,5,https://unpkg.com/htmx.org@2.0.3,209,0,122
+1746303617854,89,01_01_ClickEnterJPetStoreDemo-1,200,OK,Generate Html 1-4,text,true,,17114,407,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,80,0,0
+1746303597913,755,01_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-4,,true,,23384,1373,5,5,null,660,19277,122
+1746303641773,333,01_02_ClickOnSignIn,200,OK,Generate Html 1-1,text,true,,5548,601,5,5,https://jpetstore.aspectran.com/account/signonForm,331,0,0
+1746303642291,235,01_02_ClickOnSignIn,200,OK,Generate Html 1-1,text,true,,25801,530,5,5,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,178,0,130
+1746303604738,568,01_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-1,,true,,31349,1131,5,5,null,509,37223,130
+1746303642237,327,01_02_ClickOnSignIn,200,OK,Generate Html 1-3,text,true,,5548,600,5,5,https://jpetstore.aspectran.com/account/signonForm,327,0,0
+1746303642287,323,01_02_ClickOnSignIn,200,OK,Generate Html 1-2,text,true,,5548,599,5,5,https://jpetstore.aspectran.com/account/signonForm,323,0,0
+1746303642604,215,01_02_ClickOnSignIn,200,OK,Generate Html 1-3,text,true,,25801,530,5,5,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,164,0,116
+1746303605280,542,01_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-3,,true,,31349,1130,5,5,null,491,37001,116
+1746303642716,230,01_02_ClickOnSignIn,200,OK,Generate Html 1-2,text,true,,25801,530,5,5,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,172,0,123
+1746303605088,553,01_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-2,,true,,31349,1129,5,5,null,495,37308,123
+1746303644868,320,01_02_ClickOnSignIn,200,OK,Generate Html 1-5,text,true,,5548,599,5,5,https://jpetstore.aspectran.com/account/signonForm,318,0,0
+1746303645215,211,01_02_ClickOnSignIn,200,OK,Generate Html 1-5,text,true,,25801,530,5,5,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,160,0,114
+1746303607690,531,01_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-5,,true,,31349,1129,5,5,null,478,37208,114
+1746303655010,1256,01_02_ClickOnSignIn,200,OK,Generate Html 1-4,text,true,,5548,599,5,5,https://jpetstore.aspectran.com/account/signonForm,1253,0,292
+1746303656492,231,01_02_ClickOnSignIn,200,OK,Generate Html 1-4,text,true,,25801,530,5,5,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,172,0,119
+1746303617943,1487,01_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-4,,true,,31349,1129,5,5,null,1425,37297,411
+1746303692964,1318,01_03_EnterCredsAndClickLogin,200,OK,Generate Html 1-3,text,true,,6171,1457,5,5,https://jpetstore.aspectran.com/,951,0,126
+1746303692964,951,01_03_EnterCredsAndClickLogin-0,302,Found,Generate Html 1-3,,true,,252,767,5,5,https://jpetstore.aspectran.com/account/signon,951,0,126
+1746303693915,367,01_03_EnterCredsAndClickLogin-1,200,OK,Generate Html 1-3,text,true,,5919,690,5,5,https://jpetstore.aspectran.com/,367,0,0
+1746303642820,1318,01_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,6171,1457,5,5,null,951,50148,126
+1746303693058,1257,01_03_EnterCredsAndClickLogin,200,OK,Generate Html 1-2,text,true,,6171,1455,5,5,https://jpetstore.aspectran.com/,942,0,118
+1746303693058,942,01_03_EnterCredsAndClickLogin-0,302,Found,Generate Html 1-2,,true,,252,766,5,5,https://jpetstore.aspectran.com/account/signon,942,0,118
+1746303694001,314,01_03_EnterCredsAndClickLogin-1,200,OK,Generate Html 1-2,text,true,,5919,689,5,5,https://jpetstore.aspectran.com/,314,0,0
+1746303642946,1257,01_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,6171,1455,5,5,null,942,50116,118
+1746303692938,1726,01_03_EnterCredsAndClickLogin,200,OK,Generate Html 1-1,text,true,,6171,1459,5,5,https://jpetstore.aspectran.com/,1298,0,340
+1746303692938,1298,01_03_EnterCredsAndClickLogin-0,302,Found,Generate Html 1-1,,true,,252,768,5,5,https://jpetstore.aspectran.com/account/signon,1298,0,340
+1746303694236,428,01_03_EnterCredsAndClickLogin-1,200,OK,Generate Html 1-1,text,true,,5919,691,5,5,https://jpetstore.aspectran.com/,421,0,0
+1746303642526,1726,01_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,6171,1459,5,5,null,1298,50415,340
+1746303695894,1159,01_03_EnterCredsAndClickLogin,200,OK,Generate Html 1-5,text,true,,6171,1455,5,5,https://jpetstore.aspectran.com/,776,0,366
+1746303695894,776,01_03_EnterCredsAndClickLogin-0,302,Found,Generate Html 1-5,,true,,252,766,5,5,https://jpetstore.aspectran.com/account/signon,776,0,366
+1746303696670,383,01_03_EnterCredsAndClickLogin-1,200,OK,Generate Html 1-5,text,true,,5919,689,5,5,https://jpetstore.aspectran.com/,379,0,0
+1746303645426,1159,01_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,6171,1455,5,5,null,776,50472,366
+1746303707151,647,01_03_EnterCredsAndClickLogin,200,OK,Generate Html 1-4,text,true,,6171,1455,5,5,https://jpetstore.aspectran.com/,327,0,0
+1746303707151,327,01_03_EnterCredsAndClickLogin-0,302,Found,Generate Html 1-4,,true,,252,766,5,5,https://jpetstore.aspectran.com/account/signon,327,0,0
+1746303707479,319,01_03_EnterCredsAndClickLogin-1,200,OK,Generate Html 1-4,text,true,,5919,689,5,5,https://jpetstore.aspectran.com/,319,0,0
+1746303656724,647,01_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,6171,1455,5,5,null,327,50431,0
+1746303712846,325,01_04_ClickOnFish,200,OK,Generate Html 1-2,text,true,,5542,596,5,5,https://jpetstore.aspectran.com/categories/FISH,322,0,0
+1746303694316,325,01_04_ClickOnFish,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,5542,596,5,5,null,322,18532,0
+1746303713042,336,01_04_ClickOnFish,200,OK,Generate Html 1-3,text,true,,5542,597,5,5,https://jpetstore.aspectran.com/categories/FISH,336,0,0
+1746303694283,336,01_04_ClickOnFish,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,5542,597,5,5,null,336,18762,0
+1746303713243,332,01_04_ClickOnFish,200,OK,Generate Html 1-1,text,true,,5542,598,5,5,https://jpetstore.aspectran.com/categories/FISH,332,0,0
+1746303694664,332,01_04_ClickOnFish,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,5542,598,5,5,null,332,18582,0
+1746303715381,336,01_04_ClickOnFish,200,OK,Generate Html 1-5,text,true,,5542,596,5,5,https://jpetstore.aspectran.com/categories/FISH,336,0,0
+1746303697054,336,01_04_ClickOnFish,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,5542,596,5,5,null,336,18330,0
+1746303726237,937,01_04_ClickOnFish,200,OK,Generate Html 1-4,text,true,,5542,596,5,5,https://jpetstore.aspectran.com/categories/FISH,932,0,127
+1746303707799,937,01_04_ClickOnFish,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,5542,596,5,5,null,932,18440,127
+1746303728069,425,01_05_ClickOnProduct,200,OK,Generate Html 1-2,text,true,,5613,613,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,424,0,0
+1746303713171,425,01_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,5613,613,5,5,null,424,14898,0
+1746303728378,317,01_05_ClickOnProduct,200,OK,Generate Html 1-3,text,true,,5613,614,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,317,0,0
+1746303713379,317,01_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,5613,614,5,5,null,317,14999,0
+1746303728603,430,01_05_ClickOnProduct,200,OK,Generate Html 1-1,text,true,,5613,615,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,428,0,0
+1746303713576,430,01_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,5613,615,5,5,null,428,15027,0
+1746303730756,407,01_05_ClickOnProduct,200,OK,Generate Html 1-5,text,true,,5613,613,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,403,0,0
+1746303715718,407,01_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,5613,613,5,5,null,403,15038,0
+1746303742086,314,01_05_ClickOnProduct,200,OK,Generate Html 1-4,text,true,,5613,613,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,314,0,0
+1746303727175,314,01_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,5613,613,5,5,null,314,14914,0
+1746303755153,753,01_06_ClickOnAddToCart,200,OK,Generate Html 1-2,text,true,,6273,1240,5,5,https://jpetstore.aspectran.com/cart/viewCart,442,0,131
+1746303755153,442,01_06_ClickOnAddToCart-0,302,Found,Generate Html 1-2,,true,,265,629,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,442,0,131
+1746303755596,310,01_06_ClickOnAddToCart-1,200,OK,Generate Html 1-2,text,true,,6008,611,5,5,https://jpetstore.aspectran.com/cart/viewCart,310,0,0
+1746303728494,753,01_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,6273,1240,5,5,null,442,26662,131
+1746303755775,776,01_06_ClickOnAddToCart,200,OK,Generate Html 1-1,text,true,,6273,1244,5,5,https://jpetstore.aspectran.com/cart/viewCart,454,0,130
+1746303755775,454,01_06_ClickOnAddToCart-0,302,Found,Generate Html 1-1,,true,,265,631,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,454,0,130
+1746303756229,322,01_06_ClickOnAddToCart-1,200,OK,Generate Html 1-1,text,true,,6008,613,5,5,https://jpetstore.aspectran.com/cart/viewCart,322,0,0
+1746303729033,776,01_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,6273,1244,5,5,null,454,26744,130
+1746303757872,784,01_06_ClickOnAddToCart,200,OK,Generate Html 1-5,text,true,,6273,1240,5,5,https://jpetstore.aspectran.com/cart/viewCart,463,0,131
+1746303757872,463,01_06_ClickOnAddToCart-0,302,Found,Generate Html 1-5,,true,,265,629,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,463,0,131
+1746303758335,321,01_06_ClickOnAddToCart-1,200,OK,Generate Html 1-5,text,true,,6008,611,5,5,https://jpetstore.aspectran.com/cart/viewCart,320,0,0
+1746303731163,784,01_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,6273,1240,5,5,null,463,26713,131
+1746303755447,4200,01_06_ClickOnAddToCart,200,OK,Generate Html 1-3,text,true,,6273,1242,5,5,https://jpetstore.aspectran.com/cart/viewCart,2863,0,1388
+1746303755447,2863,01_06_ClickOnAddToCart-0,302,Found,Generate Html 1-3,,true,,265,630,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,2863,0,1388
+1746303758309,1338,01_06_ClickOnAddToCart-1,200,OK,Generate Html 1-3,text,true,,6008,612,5,5,https://jpetstore.aspectran.com/cart/viewCart,1158,0,0
+1746303728695,4200,01_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,6273,1242,5,5,null,2863,26756,1388
+1746303768937,618,01_06_ClickOnAddToCart,200,OK,Generate Html 1-4,text,true,,6273,1240,5,5,https://jpetstore.aspectran.com/cart/viewCart,307,0,0
+1746303768937,307,01_06_ClickOnAddToCart-0,302,Found,Generate Html 1-4,,true,,265,629,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,307,0,0
+1746303769244,311,01_06_ClickOnAddToCart-1,200,OK,Generate Html 1-4,text,true,,6008,611,5,5,https://jpetstore.aspectran.com/cart/viewCart,309,0,0
+1746303742401,618,01_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,6273,1240,5,5,null,307,26537,0
+1746303772221,331,01_07_ClickOnProceedToCheckOut,200,OK,Generate Html 1-2,text,true,,6037,612,5,5,https://jpetstore.aspectran.com/order/newOrderForm,330,0,0
+1746303755907,331,01_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,6037,612,5,5,null,330,16316,0
+1746303772815,317,01_07_ClickOnProceedToCheckOut,200,OK,Generate Html 1-1,text,true,,6037,614,5,5,https://jpetstore.aspectran.com/order/newOrderForm,317,0,0
+1746303756551,317,01_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,6037,614,5,5,null,317,16266,0
+1746303774653,326,01_07_ClickOnProceedToCheckOut,200,OK,Generate Html 1-5,text,true,,6037,612,5,5,https://jpetstore.aspectran.com/order/newOrderForm,325,0,0
+1746303758657,326,01_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,6037,612,5,5,null,325,15997,0
+1746303775797,408,01_07_ClickOnProceedToCheckOut,200,OK,Generate Html 1-3,text,true,,6037,613,5,5,https://jpetstore.aspectran.com/order/newOrderForm,407,0,0
+1746303759648,408,01_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,6037,613,5,5,null,407,16150,0
+1746303785804,353,01_07_ClickOnProceedToCheckOut,200,OK,Generate Html 1-4,text,true,,6037,612,5,5,https://jpetstore.aspectran.com/order/newOrderForm,352,0,0
+1746303769555,353,01_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,6037,612,5,5,null,352,16250,0
+1746303791574,321,01_08_EnterPaymentDetailsAndContinue,200,OK,Generate Html 1-2,text,true,,5855,1015,5,5,https://jpetstore.aspectran.com/order/newOrder,321,0,0
+1746303772552,321,01_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,5855,1015,5,5,null,321,19023,0
+1746303791811,327,01_08_EnterPaymentDetailsAndContinue,200,OK,Generate Html 1-1,text,true,,5855,1017,5,5,https://jpetstore.aspectran.com/order/newOrder,325,0,0
+1746303773132,327,01_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,5855,1017,5,5,null,325,18680,0
+1746303794086,322,01_08_EnterPaymentDetailsAndContinue,200,OK,Generate Html 1-5,text,true,,5856,1015,5,5,https://jpetstore.aspectran.com/order/newOrder,319,0,0
+1746303774979,322,01_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,5856,1015,5,5,null,319,19108,0
+1746303794929,349,01_08_EnterPaymentDetailsAndContinue,200,OK,Generate Html 1-3,text,true,,5855,1016,5,5,https://jpetstore.aspectran.com/order/newOrder,349,0,0
+1746303776206,349,01_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,5855,1016,5,5,null,349,18725,0
+1746303804955,990,01_08_EnterPaymentDetailsAndContinue,200,OK,Generate Html 1-4,text,true,,5855,1015,5,5,https://jpetstore.aspectran.com/order/newOrder,988,0,160
+1746303786157,990,01_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,5855,1015,5,5,null,988,18800,160
+1746303807643,711,01_09_ClickOnConfirm,200,OK,Generate Html 1-2,text,true,,6428,1466,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15689&submitted=true,347,0,0
+1746303807643,347,01_09_ClickOnConfirm-0,302,Found,Generate Html 1-2,,true,,296,737,5,5,https://jpetstore.aspectran.com/order/submitOrder,347,0,0
+1746303807991,363,01_09_ClickOnConfirm-1,200,OK,Generate Html 1-2,text,true,,6132,729,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15689&submitted=true,363,0,0
+1746303791895,711,01_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,6428,1466,5,5,null,347,15751,0
+1746303807945,682,01_09_ClickOnConfirm,200,OK,Generate Html 1-1,text,true,,6436,1470,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15690&submitted=true,337,0,0
+1746303807945,337,01_09_ClickOnConfirm-0,302,Found,Generate Html 1-1,,true,,296,739,5,5,https://jpetstore.aspectran.com/order/submitOrder,337,0,0
+1746303808282,345,01_09_ClickOnConfirm-1,200,OK,Generate Html 1-1,text,true,,6140,731,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15690&submitted=true,344,0,0
+1746303792138,682,01_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,6436,1470,5,5,null,337,15810,0
+1746303810135,718,01_09_ClickOnConfirm,200,OK,Generate Html 1-5,text,true,,6433,1466,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15691&submitted=true,340,0,0
+1746303810135,340,01_09_ClickOnConfirm-0,302,Found,Generate Html 1-5,,true,,296,737,5,5,https://jpetstore.aspectran.com/order/submitOrder,340,0,0
+1746303810475,378,01_09_ClickOnConfirm-1,200,OK,Generate Html 1-5,text,true,,6137,729,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15691&submitted=true,378,0,0
+1746303794408,718,01_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,6433,1466,5,5,null,340,15729,0
+1746303811097,698,01_09_ClickOnConfirm,200,OK,Generate Html 1-3,text,true,,6433,1468,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15692&submitted=true,329,0,0
+1746303811097,329,01_09_ClickOnConfirm-0,302,Found,Generate Html 1-3,,true,,296,738,5,5,https://jpetstore.aspectran.com/order/submitOrder,329,0,0
+1746303811427,368,01_09_ClickOnConfirm-1,200,OK,Generate Html 1-3,text,true,,6137,730,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15692&submitted=true,364,0,0
+1746303795279,698,01_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,6433,1468,5,5,null,329,15820,0
+1746303821686,708,01_09_ClickOnConfirm,200,OK,Generate Html 1-4,text,true,,6432,1466,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15693&submitted=true,334,0,0
+1746303821686,334,01_09_ClickOnConfirm-0,302,Found,Generate Html 1-4,,true,,296,737,5,5,https://jpetstore.aspectran.com/order/submitOrder,334,0,0
+1746303822020,374,01_09_ClickOnConfirm-1,200,OK,Generate Html 1-4,text,true,,6136,729,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15693&submitted=true,373,0,0
+1746303805945,708,01_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,6432,1466,5,5,null,334,15744,0
+1746303825441,1230,01_10_ClickOnSignOut,200,OK,Generate Html 1-1,text,true,,6223,1269,5,5,https://jpetstore.aspectran.com/,917,0,114
+1746303825441,917,01_10_ClickOnSignOut-0,302,Found,Generate Html 1-1,,true,,393,642,5,5,https://jpetstore.aspectran.com/account/signoff,917,0,114
+1746303826358,313,01_10_ClickOnSignOut-1,200,OK,Generate Html 1-1,text,true,,5830,627,5,5,https://jpetstore.aspectran.com/,308,0,0
+1746303808628,1230,01_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,6223,1269,5,5,null,917,16814,114
+1746303825420,1251,01_10_ClickOnSignOut,200,OK,Generate Html 1-2,text,true,,6220,1265,5,5,https://jpetstore.aspectran.com/,931,0,116
+1746303825420,931,01_10_ClickOnSignOut-0,302,Found,Generate Html 1-2,,true,,391,640,5,5,https://jpetstore.aspectran.com/account/signoff,931,0,116
+1746303826352,319,01_10_ClickOnSignOut-1,200,OK,Generate Html 1-2,text,true,,5829,625,5,5,https://jpetstore.aspectran.com/,319,0,0
+1746303808355,1251,01_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,6220,1265,5,5,null,931,17067,116
+1746303827758,1235,01_10_ClickOnSignOut,200,OK,Generate Html 1-5,text,true,,6220,1265,5,5,https://jpetstore.aspectran.com/,923,0,128
+1746303827758,923,01_10_ClickOnSignOut-0,302,Found,Generate Html 1-5,,true,,391,640,5,5,https://jpetstore.aspectran.com/account/signoff,923,0,128
+1746303828681,312,01_10_ClickOnSignOut-1,200,OK,Generate Html 1-5,text,true,,5829,625,5,5,https://jpetstore.aspectran.com/,312,0,0
+1746303810853,1235,01_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,6220,1265,5,5,null,923,16906,128
+1746303828722,1288,01_10_ClickOnSignOut,200,OK,Generate Html 1-3,text,true,,6221,1267,5,5,https://jpetstore.aspectran.com/,968,0,139
+1746303828722,968,01_10_ClickOnSignOut-0,302,Found,Generate Html 1-3,,true,,392,641,5,5,https://jpetstore.aspectran.com/account/signoff,968,0,139
+1746303829691,319,01_10_ClickOnSignOut-1,200,OK,Generate Html 1-3,text,true,,5829,626,5,5,https://jpetstore.aspectran.com/,316,0,0
+1746303811795,1288,01_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,6221,1267,5,5,null,968,16928,139
+1746303839405,622,01_10_ClickOnSignOut,200,OK,Generate Html 1-4,text,true,,6220,1265,5,5,https://jpetstore.aspectran.com/,312,0,0
+1746303839405,312,01_10_ClickOnSignOut-0,302,Found,Generate Html 1-4,,true,,391,640,5,5,https://jpetstore.aspectran.com/account/signoff,312,0,0
+1746303839717,310,01_10_ClickOnSignOut-1,200,OK,Generate Html 1-4,text,true,,5829,625,5,5,https://jpetstore.aspectran.com/,309,0,0
+1746303822395,622,01_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,6220,1265,5,5,null,312,17012,0
+1746303845722,319,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-1,text,true,,5739,578,5,5,https://jpetstore.aspectran.com/,319,0,0
+1746303845821,316,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-2,text,true,,5739,577,5,5,https://jpetstore.aspectran.com/,313,0,0
+1746303846241,346,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-1,text,true,,17660,797,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,266,0,157
+1746303846241,266,01_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Generate Html 1-1,text,true,,531,390,5,5,https://unpkg.com/htmx.org@2.0.3,266,0,157
+1746303846507,80,01_01_ClickEnterJPetStoreDemo-1,200,OK,Generate Html 1-1,text,true,,17129,407,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,77,0,0
+1746303826672,665,01_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-1,,true,,23399,1375,5,5,null,585,19252,157
+1746303846371,311,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-2,text,true,,17645,797,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,222,0,117
+1746303846371,222,01_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Generate Html 1-2,text,true,,531,390,5,5,https://unpkg.com/htmx.org@2.0.3,222,0,117
+1746303846593,89,01_01_ClickEnterJPetStoreDemo-1,200,OK,Generate Html 1-2,text,true,,17114,407,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,82,0,0
+1746303826672,627,01_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-2,,true,,23384,1374,5,5,null,535,19384,117
+1746303847846,311,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-5,text,true,,5739,577,5,5,https://jpetstore.aspectran.com/,309,0,0
+1746303848258,280,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-5,text,true,,17655,797,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,200,0,115
+1746303848258,200,01_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Generate Html 1-5,text,true,,531,390,5,5,https://unpkg.com/htmx.org@2.0.3,200,0,115
+1746303848458,80,01_01_ClickEnterJPetStoreDemo-1,200,OK,Generate Html 1-5,text,true,,17124,407,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,77,0,0
+1746303828994,591,01_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-5,,true,,23394,1374,5,5,null,509,18956,115
+1746303849088,319,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-3,text,true,,5739,577,5,5,https://jpetstore.aspectran.com/,319,0,0
+1746303849506,317,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-3,text,true,,17660,797,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,207,0,114
+1746303849506,207,01_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Generate Html 1-3,text,true,,531,390,5,5,https://unpkg.com/htmx.org@2.0.3,207,0,114
+1746303849713,110,01_01_ClickEnterJPetStoreDemo-1,200,OK,Generate Html 1-3,text,true,,17129,407,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,103,0,0
+1746303830011,636,01_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-3,,true,,23399,1374,5,5,null,526,19179,114
+1746303858887,318,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-4,text,true,,5739,577,5,5,https://jpetstore.aspectran.com/,316,0,0
+1746303859482,280,01_01_ClickEnterJPetStoreDemo,200,OK,Generate Html 1-4,text,true,,17660,797,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,203,0,116
+1746303859482,203,01_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Generate Html 1-4,text,true,,531,390,5,5,https://unpkg.com/htmx.org@2.0.3,203,0,116
+1746303859685,77,01_01_ClickEnterJPetStoreDemo-1,200,OK,Generate Html 1-4,text,true,,17129,407,5,5,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,74,0,0
+1746303840028,598,01_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-4,,true,,23399,1374,5,5,null,519,19137,116
+1746303883403,314,01_02_ClickOnSignIn,200,OK,Generate Html 1-1,text,true,,5548,601,5,5,https://jpetstore.aspectran.com/account/signonForm,314,0,0
+1746303883527,316,01_02_ClickOnSignIn,200,OK,Generate Html 1-2,text,true,,5548,600,5,5,https://jpetstore.aspectran.com/account/signonForm,315,0,0
+1746303883795,229,01_02_ClickOnSignIn,200,OK,Generate Html 1-1,text,true,,25801,530,5,5,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,177,0,131
+1746303846588,543,01_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-1,,true,,31349,1131,5,5,null,491,36897,131
+1746303884233,214,01_02_ClickOnSignIn,200,OK,Generate Html 1-2,text,true,,25801,530,5,5,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,162,0,114
+1746303846682,530,01_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-2,,true,,31349,1130,5,5,null,477,37238,114
+1746303885447,311,01_02_ClickOnSignIn,200,OK,Generate Html 1-5,text,true,,5548,600,5,5,https://jpetstore.aspectran.com/account/signonForm,310,0,0
+1746303886036,233,01_02_ClickOnSignIn,200,OK,Generate Html 1-5,text,true,,25801,530,5,5,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,175,0,121
+1746303848539,544,01_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-5,,true,,31349,1130,5,5,null,485,37188,121
+1746303886779,320,01_02_ClickOnSignIn,200,OK,Generate Html 1-3,text,true,,5548,600,5,5,https://jpetstore.aspectran.com/account/signonForm,318,0,0
+1746303887333,215,01_02_ClickOnSignIn,200,OK,Generate Html 1-3,text,true,,25801,530,5,5,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,161,0,115
+1746303849824,535,01_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-3,,true,,31349,1130,5,5,null,479,37191,115
+1746303896580,1003,01_02_ClickOnSignIn,200,OK,Generate Html 1-4,text,true,,5548,600,5,5,https://jpetstore.aspectran.com/account/signonForm,1003,0,173
+1746303897849,228,01_02_ClickOnSignIn,200,OK,Generate Html 1-4,text,true,,25801,530,5,5,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,172,0,119
+1746303859762,1231,01_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Generate Html 1-4,,true,,31349,1130,5,5,null,1175,37088,292
+1746303934172,759,01_03_EnterCredsAndClickLogin,200,OK,Generate Html 1-1,text,true,,6171,1459,5,5,https://jpetstore.aspectran.com/,446,0,124
+1746303934172,446,01_03_EnterCredsAndClickLogin-0,302,Found,Generate Html 1-1,,true,,252,768,5,5,https://jpetstore.aspectran.com/account/signon,446,0,124
+1746303934618,313,01_03_EnterCredsAndClickLogin-1,200,OK,Generate Html 1-1,text,true,,5919,691,5,5,https://jpetstore.aspectran.com/,312,0,0
+1746303884025,759,01_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,6171,1459,5,5,null,446,50150,124
+1746303934778,1289,01_03_EnterCredsAndClickLogin,200,OK,Generate Html 1-2,text,true,,6171,1457,5,5,https://jpetstore.aspectran.com/,968,0,131
+1746303934778,968,01_03_EnterCredsAndClickLogin-0,302,Found,Generate Html 1-2,,true,,252,767,5,5,https://jpetstore.aspectran.com/account/signon,968,0,131
+1746303935746,321,01_03_EnterCredsAndClickLogin-1,200,OK,Generate Html 1-2,text,true,,5919,690,5,5,https://jpetstore.aspectran.com/,314,0,0
+1746303884447,1289,01_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,6171,1457,5,5,null,968,50334,131
+1746303936652,1241,01_03_EnterCredsAndClickLogin,200,OK,Generate Html 1-5,text,true,,6171,1457,5,5,https://jpetstore.aspectran.com/,930,0,125
+1746303936652,930,01_03_EnterCredsAndClickLogin-0,302,Found,Generate Html 1-5,,true,,252,767,5,5,https://jpetstore.aspectran.com/account/signon,930,0,125
+1746303937581,312,01_03_EnterCredsAndClickLogin-1,200,OK,Generate Html 1-5,text,true,,5919,690,5,5,https://jpetstore.aspectran.com/,312,0,0
+1746303886269,1241,01_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,6171,1457,5,5,null,930,50387,125
+1746303937943,1285,01_03_EnterCredsAndClickLogin,200,OK,Generate Html 1-3,text,true,,6171,1457,5,5,https://jpetstore.aspectran.com/,974,0,150
+1746303937943,974,01_03_EnterCredsAndClickLogin-0,302,Found,Generate Html 1-3,,true,,252,767,5,5,https://jpetstore.aspectran.com/account/signon,974,0,150
+1746303938917,311,01_03_EnterCredsAndClickLogin-1,200,OK,Generate Html 1-3,text,true,,5919,690,5,5,https://jpetstore.aspectran.com/,310,0,0
+1746303887548,1285,01_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,6171,1457,5,5,null,974,50399,150
+1746303948543,646,01_03_EnterCredsAndClickLogin,200,OK,Generate Html 1-4,text,true,,6171,1457,5,5,https://jpetstore.aspectran.com/,331,0,0
+1746303948543,331,01_03_EnterCredsAndClickLogin-0,302,Found,Generate Html 1-4,,true,,252,767,5,5,https://jpetstore.aspectran.com/account/signon,331,0,0
+1746303948874,315,01_03_EnterCredsAndClickLogin-1,200,OK,Generate Html 1-4,text,true,,5919,690,5,5,https://jpetstore.aspectran.com/,313,0,0
+1746303898078,646,01_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,6171,1457,5,5,null,331,50469,0
+1746303953578,318,01_04_ClickOnFish,200,OK,Generate Html 1-1,text,true,,5542,598,5,5,https://jpetstore.aspectran.com/categories/FISH,318,0,0
+1746303934931,318,01_04_ClickOnFish,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,5542,598,5,5,null,318,18648,0
+1746303954790,321,01_04_ClickOnFish,200,OK,Generate Html 1-2,text,true,,5542,597,5,5,https://jpetstore.aspectran.com/categories/FISH,321,0,0
+1746303936067,321,01_04_ClickOnFish,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,5542,597,5,5,null,321,18724,0
+1746303956514,312,01_04_ClickOnFish,200,OK,Generate Html 1-5,text,true,,5542,597,5,5,https://jpetstore.aspectran.com/categories/FISH,312,0,0
+1746303937893,312,01_04_ClickOnFish,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,5542,597,5,5,null,312,18621,0
+1746303957619,339,01_04_ClickOnFish,200,OK,Generate Html 1-3,text,true,,5542,597,5,5,https://jpetstore.aspectran.com/categories/FISH,328,0,0
+1746303939228,339,01_04_ClickOnFish,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,5542,597,5,5,null,328,18392,0
+1746303967847,880,01_04_ClickOnFish,200,OK,Generate Html 1-4,text,true,,5542,597,5,5,https://jpetstore.aspectran.com/categories/FISH,880,0,138
+1746303949190,880,01_04_ClickOnFish,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,5542,597,5,5,null,880,18659,138
+1746303968636,334,01_05_ClickOnProduct,200,OK,Generate Html 1-1,text,true,,5613,615,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,331,0,0
+1746303953896,334,01_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,5613,615,5,5,null,331,14742,0
+1746303969952,318,01_05_ClickOnProduct,200,OK,Generate Html 1-2,text,true,,5613,614,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,318,0,0
+1746303955111,318,01_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,5613,614,5,5,null,318,14843,0
+1746303971796,323,01_05_ClickOnProduct,200,OK,Generate Html 1-5,text,true,,5613,614,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,319,0,0
+1746303956827,323,01_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,5613,614,5,5,null,319,14971,0
+1746303972735,314,01_05_ClickOnProduct,200,OK,Generate Html 1-3,text,true,,5613,614,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,313,0,0
+1746303957958,314,01_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,5613,614,5,5,null,313,14778,0
+1746303983496,289,01_05_ClickOnProduct,200,OK,Generate Html 1-4,text,true,,5613,614,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,288,0,0
+1746303968727,289,01_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,5613,614,5,5,null,288,14770,0
+1746303995764,1276,01_06_ClickOnAddToCart,200,OK,Generate Html 1-1,text,true,,6273,1244,5,5,https://jpetstore.aspectran.com/cart/viewCart,957,0,144
+1746303995764,957,01_06_ClickOnAddToCart-0,302,Found,Generate Html 1-1,,true,,265,631,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,957,0,144
+1746303996722,318,01_06_ClickOnAddToCart-1,200,OK,Generate Html 1-1,text,true,,6008,613,5,5,https://jpetstore.aspectran.com/cart/viewCart,318,0,0
+1746303968970,1276,01_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,6273,1244,5,5,null,957,26797,144
+1746303996761,755,01_06_ClickOnAddToCart,200,OK,Generate Html 1-2,text,true,,6273,1242,5,5,https://jpetstore.aspectran.com/cart/viewCart,447,0,125
+1746303996761,447,01_06_ClickOnAddToCart-0,302,Found,Generate Html 1-2,,true,,265,630,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,447,0,125
+1746303997209,307,01_06_ClickOnAddToCart-1,200,OK,Generate Html 1-2,text,true,,6008,612,5,5,https://jpetstore.aspectran.com/cart/viewCart,307,0,0
+1746303970270,755,01_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,6273,1242,5,5,null,447,26492,125
+1746303998920,1251,01_06_ClickOnAddToCart,200,OK,Generate Html 1-5,text,true,,6273,1242,5,5,https://jpetstore.aspectran.com/cart/viewCart,934,0,127
+1746303998920,934,01_06_ClickOnAddToCart-0,302,Found,Generate Html 1-5,,true,,265,630,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,934,0,127
+1746303999854,317,01_06_ClickOnAddToCart-1,200,OK,Generate Html 1-5,text,true,,6008,612,5,5,https://jpetstore.aspectran.com/cart/viewCart,317,0,0
+1746303972119,1251,01_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,6273,1242,5,5,null,934,26802,127
+1746303999944,1261,01_06_ClickOnAddToCart,200,OK,Generate Html 1-3,text,true,,6273,1242,5,5,https://jpetstore.aspectran.com/cart/viewCart,947,0,126
+1746303999944,947,01_06_ClickOnAddToCart-0,302,Found,Generate Html 1-3,,true,,265,630,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,947,0,126
+1746304000892,313,01_06_ClickOnAddToCart-1,200,OK,Generate Html 1-3,text,true,,6008,612,5,5,https://jpetstore.aspectran.com/cart/viewCart,313,0,0
+1746303973049,1261,01_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,6273,1242,5,5,null,947,26896,126
+1746304010353,570,01_06_ClickOnAddToCart,200,OK,Generate Html 1-4,text,true,,6273,1242,5,5,https://jpetstore.aspectran.com/cart/viewCart,285,0,0
+1746304010353,285,01_06_ClickOnAddToCart-0,302,Found,Generate Html 1-4,,true,,265,630,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,285,0,0
+1746304010638,285,01_06_ClickOnAddToCart-1,200,OK,Generate Html 1-4,text,true,,6008,612,5,5,https://jpetstore.aspectran.com/cart/viewCart,285,0,0
+1746303983785,570,01_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,6273,1242,5,5,null,285,26570,0
+1746304013125,326,01_07_ClickOnProceedToCheckOut,200,OK,Generate Html 1-1,text,true,,6037,614,5,5,https://jpetstore.aspectran.com/order/newOrderForm,326,0,0
+1746303997042,326,01_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,6037,614,5,5,null,326,16085,0
+1746304013482,338,01_07_ClickOnProceedToCheckOut,200,OK,Generate Html 1-2,text,true,,6037,613,5,5,https://jpetstore.aspectran.com/order/newOrderForm,338,0,0
+1746303997516,338,01_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,6037,613,5,5,null,338,15969,0
+1746304016493,366,01_07_ClickOnProceedToCheckOut,200,OK,Generate Html 1-5,text,true,,6037,613,5,5,https://jpetstore.aspectran.com/order/newOrderForm,363,0,0
+1746304000171,366,01_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,6037,613,5,5,null,363,16324,0
+1746304017390,319,01_07_ClickOnProceedToCheckOut,200,OK,Generate Html 1-3,text,true,,6037,613,5,5,https://jpetstore.aspectran.com/order/newOrderForm,317,0,0
+1746304001205,319,01_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,6037,613,5,5,null,317,16188,0
+1746304027168,289,01_07_ClickOnProceedToCheckOut,200,OK,Generate Html 1-4,text,true,,6037,613,5,5,https://jpetstore.aspectran.com/order/newOrderForm,287,0,0
+1746304010924,289,01_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,6037,613,5,5,null,287,16247,0
+1746304032383,319,01_08_EnterPaymentDetailsAndContinue,200,OK,Generate Html 1-1,text,true,,5856,1017,5,5,https://jpetstore.aspectran.com/order/newOrder,319,0,0
+1746304013451,319,01_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,5856,1017,5,5,null,319,18934,0
+1746304032747,329,01_08_EnterPaymentDetailsAndContinue,200,OK,Generate Html 1-2,text,true,,5856,1016,5,5,https://jpetstore.aspectran.com/order/newOrder,328,0,0
+1746304013821,329,01_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,5856,1016,5,5,null,328,18927,0
+1746304035835,314,01_08_EnterPaymentDetailsAndContinue,200,OK,Generate Html 1-5,text,true,,5856,1016,5,5,https://jpetstore.aspectran.com/order/newOrder,313,0,0
+1746304016859,314,01_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,5856,1016,5,5,null,313,18977,0
+1746304036405,321,01_08_EnterPaymentDetailsAndContinue,200,OK,Generate Html 1-3,text,true,,5856,1016,5,5,https://jpetstore.aspectran.com/order/newOrder,320,0,0
+1746304017710,321,01_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,5856,1016,5,5,null,320,18696,0
+1746304046488,479,01_08_EnterPaymentDetailsAndContinue,200,OK,Generate Html 1-4,text,true,,5856,1016,5,5,https://jpetstore.aspectran.com/order/newOrder,479,0,141
+1746304027458,479,01_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,5856,1016,5,5,null,479,19031,141
+1746304048298,720,01_09_ClickOnConfirm,200,OK,Generate Html 1-1,text,true,,6432,1470,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15694&submitted=true,354,0,0
+1746304048298,354,01_09_ClickOnConfirm-0,302,Found,Generate Html 1-1,,true,,296,739,5,5,https://jpetstore.aspectran.com/order/submitOrder,354,0,0
+1746304048652,366,01_09_ClickOnConfirm-1,200,OK,Generate Html 1-1,text,true,,6136,731,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15694&submitted=true,366,0,0
+1746304032703,720,01_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,6432,1470,5,5,null,354,15596,0
+1746304048731,692,01_09_ClickOnConfirm,200,OK,Generate Html 1-2,text,true,,6432,1468,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15695&submitted=true,331,0,0
+1746304048731,331,01_09_ClickOnConfirm-0,302,Found,Generate Html 1-2,,true,,296,738,5,5,https://jpetstore.aspectran.com/order/submitOrder,331,0,0
+1746304049062,361,01_09_ClickOnConfirm-1,200,OK,Generate Html 1-2,text,true,,6136,730,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15695&submitted=true,360,0,0
+1746304033076,692,01_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,6432,1468,5,5,null,331,15656,0
+1746304052106,738,01_09_ClickOnConfirm,200,OK,Generate Html 1-5,text,true,,6429,1468,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15696&submitted=true,360,0,0
+1746304052106,360,01_09_ClickOnConfirm-0,302,Found,Generate Html 1-5,,true,,296,738,5,5,https://jpetstore.aspectran.com/order/submitOrder,360,0,0
+1746304052467,377,01_09_ClickOnConfirm-1,200,OK,Generate Html 1-5,text,true,,6133,730,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15696&submitted=true,371,0,0
+1746304036149,738,01_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,6429,1468,5,5,null,360,15958,0
+1746304052596,708,01_09_ClickOnConfirm,200,OK,Generate Html 1-3,text,true,,6429,1468,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15697&submitted=true,332,0,0
+1746304052596,332,01_09_ClickOnConfirm-0,302,Found,Generate Html 1-3,,true,,296,738,5,5,https://jpetstore.aspectran.com/order/submitOrder,332,0,0
+1746304052928,376,01_09_ClickOnConfirm-1,200,OK,Generate Html 1-3,text,true,,6133,730,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15697&submitted=true,372,0,0
+1746304036726,708,01_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,6429,1468,5,5,null,332,15871,0
+1746304062904,1006,01_09_ClickOnConfirm,200,OK,Generate Html 1-4,text,true,,6432,1468,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15698&submitted=true,333,0,0
+1746304062904,333,01_09_ClickOnConfirm-0,302,Found,Generate Html 1-4,,true,,296,738,5,5,https://jpetstore.aspectran.com/order/submitOrder,333,0,0
+1746304063238,672,01_09_ClickOnConfirm-1,200,OK,Generate Html 1-4,text,true,,6136,730,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=15698&submitted=true,670,0,0
+1746304046967,1006,01_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-4,,true,,6432,1468,5,5,null,333,15938,0
+1746304066228,1165,01_10_ClickOnSignOut,200,OK,Generate Html 1-1,text,true,,6221,1269,5,5,https://jpetstore.aspectran.com/,873,0,134
+1746304066228,873,01_10_ClickOnSignOut-0,302,Found,Generate Html 1-1,,true,,393,642,5,5,https://jpetstore.aspectran.com/account/signoff,873,0,134
+1746304067102,291,01_10_ClickOnSignOut-1,200,OK,Generate Html 1-1,text,true,,5828,627,5,5,https://jpetstore.aspectran.com/,290,0,0
+1746304049018,1165,01_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-1,,true,,6221,1269,5,5,null,873,17211,134
+1746304066576,1291,01_10_ClickOnSignOut,200,OK,Generate Html 1-2,text,true,,6221,1267,5,5,https://jpetstore.aspectran.com/,967,0,142
+1746304066576,967,01_10_ClickOnSignOut-0,302,Found,Generate Html 1-2,,true,,392,641,5,5,https://jpetstore.aspectran.com/account/signoff,967,0,142
+1746304067544,323,01_10_ClickOnSignOut-1,200,OK,Generate Html 1-2,text,true,,5829,626,5,5,https://jpetstore.aspectran.com/,319,0,0
+1746304049423,1291,01_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-2,,true,,6221,1267,5,5,null,967,17155,142
+1746304069982,1261,01_10_ClickOnSignOut,200,OK,Generate Html 1-5,text,true,,6222,1267,5,5,https://jpetstore.aspectran.com/,947,0,131
+1746304069982,947,01_10_ClickOnSignOut-0,302,Found,Generate Html 1-5,,true,,392,641,5,5,https://jpetstore.aspectran.com/account/signoff,947,0,131
+1746304070929,314,01_10_ClickOnSignOut-1,200,OK,Generate Html 1-5,text,true,,5830,626,5,5,https://jpetstore.aspectran.com/,314,0,0
+1746304052845,1261,01_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-5,,true,,6222,1267,5,5,null,947,17139,131
+1746304070154,1229,01_10_ClickOnSignOut,200,OK,Generate Html 1-3,text,true,,6222,1211,5,5,https://jpetstore.aspectran.com/,923,0,120
+1746304070154,923,01_10_ClickOnSignOut-0,302,Found,Generate Html 1-3,,true,,392,641,5,5,https://jpetstore.aspectran.com/account/signoff,923,0,120
+1746304071077,306,01_10_ClickOnSignOut-1,200,OK,Generate Html 1-3,text,true,,5830,570,5,5,https://jpetstore.aspectran.com/,306,0,0
+1746304053304,1229,01_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Generate Html 1-3,,true,,6222,1211,5,5,null,923,16851,120
+1746304063910,0,01_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,14162,0

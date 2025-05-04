@@ -1,0 +1,210 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1746293005444,554,HTTP Request,200,OK,Scenario 8- Search 8-1,text,true,,21888,172,1,8,https://jpetstore.aspectran.com/catalog/searchProducts?keyword=fish&keyword=dog,548,0,245
+1746293024107,431,05_01_ClickEnterJPetStoreDemo,200,OK,Scenario 5- Shopping Birds 5-1,text,true,,5828,521,1,7,https://jpetstore.aspectran.com/,430,0,134
+1746293024164,423,02_01_ClickEnterJPetStoreDemo,200,OK,Scenario 2- Shopping Dog 2-1,text,true,,5830,521,1,7,https://jpetstore.aspectran.com/,421,0,128
+1746293024177,418,01_01_ClickEnterJPetStoreDemo,200,OK,Scenario 1- Shopping Fish 1-1,text,true,,5830,521,1,7,https://jpetstore.aspectran.com/,418,0,141
+1746293024129,471,07_01_ClickEnterJPetStoreDemo,200,OK,Scenario 7- Add to cart 7-1,text,true,,5829,521,1,7,https://jpetstore.aspectran.com/,467,0,133
+1746293024173,456,03_01_ClickEnterJPetStoreDemo,200,OK,Scenario 3- Shopping Reptiles 3-1,text,true,,5829,521,1,7,https://jpetstore.aspectran.com/,455,0,134
+1746293024180,464,04_01_ClickEnterJPetStoreDemo,200,OK,Scenario 4- Shopping Cats 4-1,text,true,,5830,521,1,7,https://jpetstore.aspectran.com/,463,0,142
+1746293024540,342,05_01_ClickEnterJPetStoreDemo,200,OK,Scenario 5- Shopping Birds 5-1,text,true,,17645,797,1,7,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,250,0,145
+1746293024540,251,05_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Scenario 5- Shopping Birds 5-1,text,true,,531,390,1,7,https://unpkg.com/htmx.org@2.0.3,250,0,145
+1746293024792,90,05_01_ClickEnterJPetStoreDemo-1,200,OK,Scenario 5- Shopping Birds 5-1,text,true,,17114,407,1,7,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,84,0,0
+1746293005380,773,05_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Scenario 5- Shopping Birds 5-1,,true,,23473,1318,1,7,null,680,18730,279
+1746293024590,334,02_01_ClickEnterJPetStoreDemo,200,OK,Scenario 2- Shopping Dog 2-1,text,true,,17640,797,1,7,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,250,0,151
+1746293024590,250,02_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Scenario 2- Shopping Dog 2-1,text,true,,531,390,1,7,https://unpkg.com/htmx.org@2.0.3,250,0,151
+1746293024840,84,02_01_ClickEnterJPetStoreDemo-1,200,OK,Scenario 2- Shopping Dog 2-1,text,true,,17109,407,1,7,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,80,0,0
+1746293005380,757,02_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Scenario 2- Shopping Dog 2-1,,true,,23470,1318,1,7,null,671,18788,279
+1746293024597,350,01_01_ClickEnterJPetStoreDemo,200,OK,Scenario 1- Shopping Fish 1-1,text,true,,17655,797,1,7,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,248,0,147
+1746293024597,248,01_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Scenario 1- Shopping Fish 1-1,text,true,,531,390,1,7,https://unpkg.com/htmx.org@2.0.3,248,0,147
+1746293024846,101,01_01_ClickEnterJPetStoreDemo-1,200,OK,Scenario 1- Shopping Fish 1-1,text,true,,17124,407,1,7,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,82,0,0
+1746293005380,768,01_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Scenario 1- Shopping Fish 1-1,,true,,23485,1318,1,7,null,666,18800,288
+1746293024602,367,07_01_ClickEnterJPetStoreDemo,200,OK,Scenario 7- Add to cart 7-1,text,true,,17645,797,1,7,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,241,0,134
+1746293024602,241,07_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Scenario 7- Add to cart 7-1,text,true,,531,390,1,7,https://unpkg.com/htmx.org@2.0.3,241,0,134
+1746293024844,125,07_01_ClickEnterJPetStoreDemo-1,200,OK,Scenario 7- Add to cart 7-1,text,true,,17114,407,1,7,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,105,0,0
+1746293005383,838,07_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Scenario 7- Add to cart 7-1,,true,,23474,1318,1,7,null,708,18749,267
+1746293024645,325,04_01_ClickEnterJPetStoreDemo,200,OK,Scenario 4- Shopping Cats 4-1,text,true,,17645,797,1,7,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,205,0,127
+1746293024645,205,04_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Scenario 4- Shopping Cats 4-1,text,true,,531,390,1,7,https://unpkg.com/htmx.org@2.0.3,205,0,127
+1746293024851,119,04_01_ClickEnterJPetStoreDemo-1,200,OK,Scenario 4- Shopping Cats 4-1,text,true,,17114,407,1,7,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,112,0,0
+1746293005380,789,04_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Scenario 4- Shopping Cats 4-1,,true,,23475,1318,1,7,null,668,18801,269
+1746293024630,348,03_01_ClickEnterJPetStoreDemo,200,OK,Scenario 3- Shopping Reptiles 3-1,text,true,,17640,797,1,7,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,232,0,139
+1746293024630,232,03_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Scenario 3- Shopping Reptiles 3-1,text,true,,531,390,1,7,https://unpkg.com/htmx.org@2.0.3,232,0,139
+1746293024862,116,03_01_ClickEnterJPetStoreDemo-1,200,OK,Scenario 3- Shopping Reptiles 3-1,text,true,,17109,407,1,7,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,107,0,0
+1746293005380,804,03_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Scenario 3- Shopping Reptiles 3-1,,true,,23469,1318,1,7,null,687,18795,273
+1746293024128,946,06_01_ClickEnterJPetStoreDemo,200,OK,Scenario 6- Login & Logout 6-1,text,true,,5829,521,1,7,https://jpetstore.aspectran.com/,945,0,138
+1746293025076,312,06_01_ClickEnterJPetStoreDemo,200,OK,Scenario 6- Login & Logout 6-1,text,true,,17645,797,1,7,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,225,0,137
+1746293025076,225,06_01_ClickEnterJPetStoreDemo-0,301,Moved Permanently,Scenario 6- Login & Logout 6-1,text,true,,531,390,1,7,https://unpkg.com/htmx.org@2.0.3,225,0,137
+1746293025302,86,06_01_ClickEnterJPetStoreDemo-1,200,OK,Scenario 6- Login & Logout 6-1,text,true,,17114,407,1,7,https://unpkg.com/htmx.org@2.0.3/dist/htmx.min.js,83,0,0
+1746293005380,1258,06_01_ClickEnterJPetStoreDemo,200,"Number of samples in transaction : 2, number of failing samples : 0",Scenario 6- Login & Logout 6-1,,true,,23474,1318,1,7,null,1170,18751,275
+1746293061732,281,05_02_ClickOnSignIn,200,OK,Scenario 5- Shopping Birds 5-1,text,true,,5548,599,1,7,https://jpetstore.aspectran.com/account/signonForm,280,0,0
+1746293061760,284,02_02_ClickOnSignIn,200,OK,Scenario 2- Shopping Dog 2-1,text,true,,5548,601,1,7,https://jpetstore.aspectran.com/account/signonForm,282,0,0
+1746293061785,273,01_02_ClickOnSignIn,200,OK,Scenario 1- Shopping Fish 1-1,text,true,,5548,601,1,7,https://jpetstore.aspectran.com/account/signonForm,273,0,0
+1746293061825,310,04_02_ClickOnSignIn,200,OK,Scenario 4- Shopping Cats 4-1,text,true,,5548,601,1,7,https://jpetstore.aspectran.com/account/signonForm,309,0,0
+1746293061842,314,03_02_ClickOnSignIn,200,OK,Scenario 3- Shopping Reptiles 3-1,text,true,,5548,600,1,7,https://jpetstore.aspectran.com/account/signonForm,308,0,0
+1746293061839,321,07_02_ClickOnSignIn,200,OK,Scenario 7- Add to cart 7-1,text,true,,5548,600,1,7,https://jpetstore.aspectran.com/account/signonForm,318,0,0
+1746293062015,231,05_02_ClickOnSignIn,200,OK,Scenario 5- Shopping Birds 5-1,text,true,,25801,530,1,7,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,181,0,134
+1746293024883,512,05_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Scenario 5- Shopping Birds 5-1,,true,,31349,1129,1,7,null,461,36852,134
+1746293062046,214,02_02_ClickOnSignIn,200,OK,Scenario 2- Shopping Dog 2-1,text,true,,25801,530,1,7,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,163,0,114
+1746293024925,498,02_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Scenario 2- Shopping Dog 2-1,,true,,31349,1131,1,7,null,445,36837,114
+1746293062059,219,01_02_ClickOnSignIn,200,OK,Scenario 1- Shopping Fish 1-1,text,true,,25801,530,1,7,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,166,0,116
+1746293024948,492,01_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Scenario 1- Shopping Fish 1-1,,true,,31349,1131,1,7,null,439,36839,116
+1746293062136,218,04_02_ClickOnSignIn,200,OK,Scenario 4- Shopping Cats 4-1,text,true,,25801,530,1,7,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,167,0,115
+1746293024970,528,04_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Scenario 4- Shopping Cats 4-1,,true,,31349,1131,1,7,null,476,36857,115
+1746293062160,206,07_02_ClickOnSignIn,200,OK,Scenario 7- Add to cart 7-1,text,true,,25801,530,1,7,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,158,0,110
+1746293024970,527,07_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Scenario 7- Add to cart 7-1,,true,,31349,1130,1,7,null,476,36869,110
+1746293062157,229,03_02_ClickOnSignIn,200,OK,Scenario 3- Shopping Reptiles 3-1,text,true,,25801,530,1,7,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,173,0,125
+1746293024979,543,03_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Scenario 3- Shopping Reptiles 3-1,,true,,31349,1130,1,7,null,481,36864,125
+1746293062212,320,06_02_ClickOnSignIn,200,OK,Scenario 6- Login & Logout 6-1,text,true,,5548,600,1,7,https://jpetstore.aspectran.com/account/signonForm,317,0,0
+1746293062535,234,06_02_ClickOnSignIn,200,OK,Scenario 6- Login & Logout 6-1,text,true,,25801,530,1,7,https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2,180,0,125
+1746293025389,554,06_02_ClickOnSignIn,200,"Number of samples in transaction : 2, number of failing samples : 0",Scenario 6- Login & Logout 6-1,,true,,31349,1130,1,7,null,497,36826,125
+1746293112334,799,02_03_EnterCredsAndClickLogin,200,OK,Scenario 2- Shopping Dog 2-1,text,true,,6168,1453,1,7,https://jpetstore.aspectran.com/,463,0,135
+1746293112334,463,02_03_EnterCredsAndClickLogin-0,302,Found,Scenario 2- Shopping Dog 2-1,,true,,252,762,1,7,https://jpetstore.aspectran.com/account/signon,463,0,135
+1746293112798,335,02_03_EnterCredsAndClickLogin-1,200,OK,Scenario 2- Shopping Dog 2-1,text,true,,5916,691,1,7,https://jpetstore.aspectran.com/,332,0,0
+1746293062260,799,02_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2- Shopping Dog 2-1,,true,,6168,1453,1,7,null,463,50074,135
+1746293112324,815,05_03_EnterCredsAndClickLogin,200,OK,Scenario 5- Shopping Birds 5-1,text,true,,6168,1451,1,7,https://jpetstore.aspectran.com/,485,0,145
+1746293112324,485,05_03_EnterCredsAndClickLogin-0,302,Found,Scenario 5- Shopping Birds 5-1,,true,,252,762,1,7,https://jpetstore.aspectran.com/account/signon,485,0,145
+1746293112810,329,05_03_EnterCredsAndClickLogin-1,200,OK,Scenario 5- Shopping Birds 5-1,text,true,,5916,689,1,7,https://jpetstore.aspectran.com/,327,0,0
+1746293062247,815,05_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 5- Shopping Birds 5-1,,true,,6168,1451,1,7,null,485,50078,145
+1746293112416,736,01_03_EnterCredsAndClickLogin,200,OK,Scenario 1- Shopping Fish 1-1,text,true,,6171,1459,1,7,https://jpetstore.aspectran.com/,428,0,124
+1746293112416,428,01_03_EnterCredsAndClickLogin-0,302,Found,Scenario 1- Shopping Fish 1-1,,true,,252,768,1,7,https://jpetstore.aspectran.com/account/signon,428,0,124
+1746293112844,308,01_03_EnterCredsAndClickLogin-1,200,OK,Scenario 1- Shopping Fish 1-1,text,true,,5919,691,1,7,https://jpetstore.aspectran.com/,296,0,0
+1746293062280,736,01_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 1- Shopping Fish 1-1,,true,,6171,1459,1,7,null,428,50137,124
+1746293112487,717,04_03_EnterCredsAndClickLogin,200,OK,Scenario 4- Shopping Cats 4-1,text,true,,6169,1455,1,7,https://jpetstore.aspectran.com/,439,0,133
+1746293112487,439,04_03_EnterCredsAndClickLogin-0,302,Found,Scenario 4- Shopping Cats 4-1,,true,,252,764,1,7,https://jpetstore.aspectran.com/account/signon,439,0,133
+1746293112927,277,04_03_EnterCredsAndClickLogin-1,200,OK,Scenario 4- Shopping Cats 4-1,text,true,,5917,691,1,7,https://jpetstore.aspectran.com/,272,0,0
+1746293062355,717,04_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 4- Shopping Cats 4-1,,true,,6169,1455,1,7,null,439,50132,133
+1746293112505,857,03_03_EnterCredsAndClickLogin,200,OK,Scenario 3- Shopping Reptiles 3-1,text,true,,6170,1455,1,7,https://jpetstore.aspectran.com/,477,0,154
+1746293112505,477,03_03_EnterCredsAndClickLogin-0,302,Found,Scenario 3- Shopping Reptiles 3-1,,true,,252,765,1,7,https://jpetstore.aspectran.com/account/signon,477,0,154
+1746293112982,380,03_03_EnterCredsAndClickLogin-1,200,OK,Scenario 3- Shopping Reptiles 3-1,text,true,,5918,690,1,7,https://jpetstore.aspectran.com/,377,0,0
+1746293062386,857,03_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 3- Shopping Reptiles 3-1,,true,,6170,1455,1,7,null,477,50119,154
+1746293112500,1154,07_03_EnterCredsAndClickLogin,200,OK,Scenario 7- Add to cart 7-1,text,true,,6170,1455,1,7,https://jpetstore.aspectran.com/,456,0,162
+1746293112500,456,07_03_EnterCredsAndClickLogin-0,302,Found,Scenario 7- Add to cart 7-1,,true,,252,765,1,7,https://jpetstore.aspectran.com/account/signon,456,0,162
+1746293112957,697,07_03_EnterCredsAndClickLogin-1,200,OK,Scenario 7- Add to cart 7-1,text,true,,5918,690,1,7,https://jpetstore.aspectran.com/,696,0,0
+1746293062366,1154,07_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 7- Add to cart 7-1,,true,,6170,1455,1,7,null,456,50135,162
+1746293112890,1274,06_03_EnterCredsAndClickLogin,200,OK,Scenario 6- Login & Logout 6-1,text,true,,6168,1451,1,7,https://jpetstore.aspectran.com/,947,0,130
+1746293112890,947,06_03_EnterCredsAndClickLogin-0,302,Found,Scenario 6- Login & Logout 6-1,,true,,252,761,1,7,https://jpetstore.aspectran.com/account/signon,947,0,130
+1746293113837,327,06_03_EnterCredsAndClickLogin-1,200,OK,Scenario 6- Login & Logout 6-1,text,true,,5916,690,1,7,https://jpetstore.aspectran.com/,323,0,0
+1746293062769,1274,06_03_EnterCredsAndClickLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 6- Login & Logout 6-1,,true,,6168,1451,1,7,null,947,50121,130
+1746293130937,622,06_04_ClickOnSignOut,200,OK,Scenario 6- Login & Logout 6-1,text,true,,6220,1267,1,7,https://jpetstore.aspectran.com/,308,0,0
+1746293130937,308,06_04_ClickOnSignOut-0,302,Found,Scenario 6- Login & Logout 6-1,,true,,392,641,1,7,https://jpetstore.aspectran.com/account/signoff,308,0,0
+1746293131246,313,06_04_ClickOnSignOut-1,200,OK,Scenario 6- Login & Logout 6-1,text,true,,5828,626,1,7,https://jpetstore.aspectran.com/,313,0,0
+1746293114165,622,06_04_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 6- Login & Logout 6-1,,true,,6220,1267,1,7,null,308,16774,0
+1746293131459,296,01_04_ClickOnFish,200,OK,Scenario 1- Shopping Fish 1-1,text,true,,5542,598,1,6,https://jpetstore.aspectran.com/categories/FISH,294,0,0
+1746293113153,296,01_04_ClickOnFish,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 1- Shopping Fish 1-1,,true,,5542,598,1,6,null,294,18307,0
+1746293131447,322,05_04_ClickOnBirds,200,OK,Scenario 5- Shopping Birds 5-1,text,true,,5520,597,1,6,https://jpetstore.aspectran.com/categories/BIRDS,322,0,0
+1746293113140,322,05_04_ClickOnBirds,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 5- Shopping Birds 5-1,,true,,5520,597,1,6,null,322,18308,0
+1746293131509,318,02_04_ClickOnDog,200,OK,Scenario 2- Shopping Dog 2-1,text,true,,5512,597,1,6,https://jpetstore.aspectran.com/categories/DOG,316,0,0
+1746293113133,318,02_04_ClickOnDog,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2- Shopping Dog 2-1,,true,,5512,597,1,6,null,316,18377,0
+1746293131570,733,04_04_ClickOnReptiles,200,OK,Scenario 4- Shopping Cats 4-1,text,true,,5516,598,1,6,https://jpetstore.aspectran.com/categories/CATS,732,0,0
+1746293113205,733,04_04_ClickOnReptiles,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 4- Shopping Cats 4-1,,true,,5516,598,1,6,null,732,18365,0
+1746293132038,291,07_04_ClickOnDog,200,OK,Scenario 7- Add to cart 7-1,text,true,,5512,596,1,6,https://jpetstore.aspectran.com/categories/DOG,289,0,0
+1746293113655,291,07_04_ClickOnDog,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 7- Add to cart 7-1,,true,,5512,596,1,6,null,289,18383,0
+1746293131664,804,03_04_ClickOnReptiles,200,OK,Scenario 3- Shopping Reptiles 3-1,text,true,,5516,601,1,6,https://jpetstore.aspectran.com/categories/REPTILES,793,0,0
+1746293113362,804,03_04_ClickOnReptiles,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 3- Shopping Reptiles 3-1,,true,,5516,601,1,6,null,793,18303,0
+1746293146473,298,01_05_ClickOnProduct,200,OK,Scenario 1- Shopping Fish 1-1,text,true,,5613,615,1,6,https://jpetstore.aspectran.com/products/FI-SW-01,298,0,0
+1746293131756,298,01_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 1- Shopping Fish 1-1,,true,,5613,615,1,6,null,298,14718,0
+1746293146515,324,05_05_ClickOnProduct,200,OK,Scenario 5- Shopping Birds 5-1,text,true,,5602,613,1,6,https://jpetstore.aspectran.com/products/AV-CB-01,321,0,0
+1746293131770,324,05_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 5- Shopping Birds 5-1,,true,,5602,613,1,6,null,321,14746,0
+1746293146540,312,02_05_ClickOnProduct,200,OK,Scenario 2- Shopping Dog 2-1,text,true,,5622,615,1,6,https://jpetstore.aspectran.com/products/K9-BD-01,310,0,0
+1746293131828,312,02_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2- Shopping Dog 2-1,,true,,5622,615,1,6,null,310,14713,0
+1746293146972,271,04_05_ClickOnProduct,200,OK,Scenario 4- Shopping Cats 4-1,text,true,,5620,616,1,6,https://jpetstore.aspectran.com/products/FL-DSH-01,271,0,0
+1746293132303,271,04_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 4- Shopping Cats 4-1,,true,,5620,616,1,6,null,271,14670,0
+1746293147033,284,07_05_ClickOnProduct,200,OK,Scenario 7- Add to cart 7-1,text,true,,5622,614,1,6,https://jpetstore.aspectran.com/products/K9-BD-01,283,0,0
+1746293132329,284,07_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 7- Add to cart 7-1,,true,,5622,614,1,6,null,283,14704,0
+1746293147182,312,03_05_ClickOnProduct,200,OK,Scenario 3- Shopping Reptiles 3-1,text,true,,5613,614,1,6,https://jpetstore.aspectran.com/products/RP-SN-01,312,0,0
+1746293132469,312,03_05_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 3- Shopping Reptiles 3-1,,true,,5613,614,1,6,null,312,14714,0
+1746293173192,784,01_06_ClickOnAddToCart,200,OK,Scenario 1- Shopping Fish 1-1,text,true,,6273,1244,1,6,https://jpetstore.aspectran.com/cart/viewCart,462,0,149
+1746293173192,462,01_06_ClickOnAddToCart-0,302,Found,Scenario 1- Shopping Fish 1-1,,true,,265,631,1,6,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,462,0,149
+1746293173655,321,01_06_ClickOnAddToCart-1,200,OK,Scenario 1- Shopping Fish 1-1,text,true,,6008,613,1,6,https://jpetstore.aspectran.com/cart/viewCart,318,0,0
+1746293146772,784,01_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 1- Shopping Fish 1-1,,true,,6273,1244,1,6,null,462,26421,149
+1746293173319,697,02_06_ClickOnAddToCart,200,OK,Scenario 2- Shopping Dog 2-1,text,true,,6285,1244,1,6,https://jpetstore.aspectran.com/cart/viewCart,408,0,137
+1746293173319,408,02_06_ClickOnAddToCart-0,302,Found,Scenario 2- Shopping Dog 2-1,,true,,265,631,1,6,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-6,408,0,137
+1746293173727,289,02_06_ClickOnAddToCart-1,200,OK,Scenario 2- Shopping Dog 2-1,text,true,,6020,613,1,6,https://jpetstore.aspectran.com/cart/viewCart,289,0,0
+1746293146853,697,02_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2- Shopping Dog 2-1,,true,,6285,1244,1,6,null,408,26466,137
+1746293173706,746,04_06_ClickOnAddToCart,200,OK,Scenario 4- Shopping Cats 4-1,text,true,,6284,1245,1,6,https://jpetstore.aspectran.com/cart/viewCart,437,0,127
+1746293173706,437,04_06_ClickOnAddToCart-0,302,Found,Scenario 4- Shopping Cats 4-1,,true,,265,632,1,6,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-14,437,0,127
+1746293174144,308,04_06_ClickOnAddToCart-1,200,OK,Scenario 4- Shopping Cats 4-1,text,true,,6019,613,1,6,https://jpetstore.aspectran.com/cart/viewCart,307,0,0
+1746293147244,746,04_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 4- Shopping Cats 4-1,,true,,6284,1245,1,6,null,437,26463,127
+1746293173816,774,07_06_ClickOnAddToCart,200,OK,Scenario 7- Add to cart 7-1,text,true,,6285,1242,1,6,https://jpetstore.aspectran.com/cart/viewCart,458,0,140
+1746293173816,458,07_06_ClickOnAddToCart-0,302,Found,Scenario 7- Add to cart 7-1,,true,,265,630,1,6,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-6,458,0,140
+1746293174275,315,07_06_ClickOnAddToCart-1,200,OK,Scenario 7- Add to cart 7-1,text,true,,6020,612,1,6,https://jpetstore.aspectran.com/cart/viewCart,312,0,0
+1746293147318,774,07_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 7- Add to cart 7-1,,true,,6285,1242,1,6,null,458,26499,140
+1746293173349,1258,05_06_ClickOnAddToCart,200,OK,Scenario 5- Shopping Birds 5-1,text,true,,6291,1241,1,6,https://jpetstore.aspectran.com/cart/viewCart,945,0,120
+1746293173349,945,05_06_ClickOnAddToCart-0,302,Found,Scenario 5- Shopping Birds 5-1,,true,,265,630,1,6,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-18,945,0,120
+1746293174295,312,05_06_ClickOnAddToCart-1,200,OK,Scenario 5- Shopping Birds 5-1,text,true,,6026,611,1,6,https://jpetstore.aspectran.com/cart/viewCart,310,0,0
+1746293146840,1258,05_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 5- Shopping Birds 5-1,,true,,6291,1241,1,6,null,945,26510,120
+1746293173963,760,03_06_ClickOnAddToCart,200,OK,Scenario 3- Shopping Reptiles 3-1,text,true,,6287,1243,1,6,https://jpetstore.aspectran.com/cart/viewCart,439,0,127
+1746293173963,439,03_06_ClickOnAddToCart-0,302,Found,Scenario 3- Shopping Reptiles 3-1,,true,,265,631,1,6,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-11,439,0,127
+1746293174403,320,03_06_ClickOnAddToCart-1,200,OK,Scenario 3- Shopping Reptiles 3-1,text,true,,6022,612,1,6,https://jpetstore.aspectran.com/cart/viewCart,315,0,0
+1746293147496,760,03_06_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 3- Shopping Reptiles 3-1,,true,,6287,1243,1,6,null,439,26468,127
+1746293189902,274,02_07_ClickOnProceedToCheckOut,200,OK,Scenario 2- Shopping Dog 2-1,text,true,,5959,614,1,6,https://jpetstore.aspectran.com/order/newOrderForm,274,0,0
+1746293174016,274,02_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2- Shopping Dog 2-1,,true,,5959,614,1,6,null,274,15887,0
+1746293189902,319,01_07_ClickOnProceedToCheckOut,200,OK,Scenario 1- Shopping Fish 1-1,text,true,,6037,614,1,6,https://jpetstore.aspectran.com/order/newOrderForm,319,0,0
+1746293173977,319,01_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 1- Shopping Fish 1-1,,true,,6037,614,1,6,null,319,15926,0
+1746293190380,313,04_07_ClickOnProceedToCheckOut,200,OK,Scenario 4- Shopping Cats 4-1,text,true,,5960,614,1,6,https://jpetstore.aspectran.com/order/newOrderForm,310,0,0
+1746293174453,313,04_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 4- Shopping Cats 4-1,,true,,5960,614,1,6,null,310,15928,0
+1746293190540,312,05_07_ClickOnProceedToCheckOut,200,OK,Scenario 5- Shopping Birds 5-1,text,true,,5960,612,1,6,https://jpetstore.aspectran.com/order/newOrderForm,309,0,0
+1746293174608,312,05_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 5- Shopping Birds 5-1,,true,,5960,612,1,6,null,309,15932,0
+1746293190684,320,03_07_ClickOnProceedToCheckOut,200,OK,Scenario 3- Shopping Reptiles 3-1,text,true,,5960,613,1,6,https://jpetstore.aspectran.com/order/newOrderForm,316,0,0
+1746293174724,320,03_07_ClickOnProceedToCheckOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 3- Shopping Reptiles 3-1,,true,,5960,613,1,6,null,316,15961,0
+1746293192973,322,07_07_ClickOnReptiles,200,OK,Scenario 7- Add to cart 7-1,text,true,,5516,601,1,6,https://jpetstore.aspectran.com/categories/REPTILES,321,0,0
+1746293174591,322,07_07_ClickOnReptiles,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 7- Add to cart 7-1,,true,,5516,601,1,6,null,321,18382,0
+1746293207991,326,07_08_ClickOnProduct,200,OK,Scenario 7- Add to cart 7-1,text,true,,5613,614,1,6,https://jpetstore.aspectran.com/products/RP-SN-01,326,0,0
+1746293193296,326,07_08_ClickOnProduct,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 7- Add to cart 7-1,,true,,5613,614,1,6,null,326,14697,0
+1746293208867,303,02_08_EnterPaymentDetailsAndContinue,200,OK,Scenario 2- Shopping Dog 2-1,text,true,,5778,949,1,6,https://jpetstore.aspectran.com/order/newOrder,303,0,0
+1746293190177,303,02_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2- Shopping Dog 2-1,,true,,5778,949,1,6,null,303,18691,0
+1746293208875,332,01_08_EnterPaymentDetailsAndContinue,200,OK,Scenario 1- Shopping Fish 1-1,text,true,,5856,1017,1,6,https://jpetstore.aspectran.com/order/newOrder,317,0,0
+1746293190222,332,01_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 1- Shopping Fish 1-1,,true,,5856,1017,1,6,null,317,18654,0
+1746293209397,318,04_08_EnterPaymentDetailsAndContinue,200,OK,Scenario 4- Shopping Cats 4-1,text,true,,5779,956,1,6,https://jpetstore.aspectran.com/order/newOrder,317,0,0
+1746293190694,318,04_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 4- Shopping Cats 4-1,,true,,5779,956,1,6,null,317,18704,0
+1746293209555,317,05_08_EnterPaymentDetailsAndContinue,200,OK,Scenario 5- Shopping Birds 5-1,text,true,,5778,954,1,6,https://jpetstore.aspectran.com/order/newOrder,316,0,0
+1746293190853,317,05_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 5- Shopping Birds 5-1,,true,,5778,954,1,6,null,316,18702,0
+1746293209675,319,03_08_EnterPaymentDetailsAndContinue,200,OK,Scenario 3- Shopping Reptiles 3-1,text,true,,5780,962,1,6,https://jpetstore.aspectran.com/order/newOrder,316,0,0
+1746293191005,319,03_08_EnterPaymentDetailsAndContinue,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 3- Shopping Reptiles 3-1,,true,,5780,962,1,6,null,316,18671,0
+1746293224761,625,02_09_ClickOnConfirm,200,OK,Scenario 2- Shopping Dog 2-1,text,true,,6366,1470,1,6,https://jpetstore.aspectran.com/order/viewOrder?orderId=15654&submitted=true,297,0,0
+1746293224761,297,02_09_ClickOnConfirm-0,302,Found,Scenario 2- Shopping Dog 2-1,,true,,296,739,1,6,https://jpetstore.aspectran.com/order/submitOrder,297,0,0
+1746293225059,327,02_09_ClickOnConfirm-1,200,OK,Scenario 2- Shopping Dog 2-1,text,true,,6070,731,1,6,https://jpetstore.aspectran.com/order/viewOrder?orderId=15654&submitted=true,325,0,0
+1746293209171,625,02_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2- Shopping Dog 2-1,,true,,6366,1470,1,6,null,297,15590,0
+1746293224806,733,01_09_ClickOnConfirm,200,OK,Scenario 1- Shopping Fish 1-1,text,true,,6432,1470,1,6,https://jpetstore.aspectran.com/order/viewOrder?orderId=15655&submitted=true,369,0,0
+1746293224806,369,01_09_ClickOnConfirm-0,302,Found,Scenario 1- Shopping Fish 1-1,,true,,296,739,1,6,https://jpetstore.aspectran.com/order/submitOrder,369,0,0
+1746293225176,363,01_09_ClickOnConfirm-1,200,OK,Scenario 1- Shopping Fish 1-1,text,true,,6136,731,1,6,https://jpetstore.aspectran.com/order/viewOrder?orderId=15655&submitted=true,363,0,0
+1746293209208,733,01_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 1- Shopping Fish 1-1,,true,,6432,1470,1,6,null,369,15598,0
+1746293225320,686,04_09_ClickOnConfirm,200,OK,Scenario 4- Shopping Cats 4-1,text,true,,6362,1470,1,6,https://jpetstore.aspectran.com/order/viewOrder?orderId=15656&submitted=true,328,0,0
+1746293225320,328,04_09_ClickOnConfirm-0,302,Found,Scenario 4- Shopping Cats 4-1,,true,,296,739,1,6,https://jpetstore.aspectran.com/order/submitOrder,328,0,0
+1746293225649,357,04_09_ClickOnConfirm-1,200,OK,Scenario 4- Shopping Cats 4-1,text,true,,6066,731,1,6,https://jpetstore.aspectran.com/order/viewOrder?orderId=15656&submitted=true,356,0,0
+1746293209716,686,04_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 4- Shopping Cats 4-1,,true,,6362,1470,1,6,null,328,15604,0
+1746293225505,745,05_09_ClickOnConfirm,200,OK,Scenario 5- Shopping Birds 5-1,text,true,,6372,1466,1,6,https://jpetstore.aspectran.com/order/viewOrder?orderId=15657&submitted=true,370,0,0
+1746293225505,370,05_09_ClickOnConfirm-0,302,Found,Scenario 5- Shopping Birds 5-1,,true,,296,737,1,6,https://jpetstore.aspectran.com/order/submitOrder,370,0,0
+1746293225875,375,05_09_ClickOnConfirm-1,200,OK,Scenario 5- Shopping Birds 5-1,text,true,,6076,729,1,6,https://jpetstore.aspectran.com/order/viewOrder?orderId=15657&submitted=true,374,0,0
+1746293209873,745,05_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 5- Shopping Birds 5-1,,true,,6372,1466,1,6,null,370,15631,0
+1746293225589,702,03_09_ClickOnConfirm,200,OK,Scenario 3- Shopping Reptiles 3-1,text,true,,6367,1468,1,6,https://jpetstore.aspectran.com/order/viewOrder?orderId=15658&submitted=true,337,0,0
+1746293225589,337,03_09_ClickOnConfirm-0,302,Found,Scenario 3- Shopping Reptiles 3-1,,true,,296,738,1,6,https://jpetstore.aspectran.com/order/submitOrder,337,0,0
+1746293225926,365,03_09_ClickOnConfirm-1,200,OK,Scenario 3- Shopping Reptiles 3-1,text,true,,6071,730,1,6,https://jpetstore.aspectran.com/order/viewOrder?orderId=15658&submitted=true,363,0,0
+1746293209995,702,03_09_ClickOnConfirm,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 3- Shopping Reptiles 3-1,,true,,6367,1468,1,6,null,337,15594,0
+1746293234778,1291,07_09_ClickOnAddToCart,200,OK,Scenario 7- Add to cart 7-1,text,true,,6353,1243,1,6,https://jpetstore.aspectran.com/cart/viewCart,954,0,135
+1746293234778,954,07_09_ClickOnAddToCart-0,302,Found,Scenario 7- Add to cart 7-1,,true,,265,631,1,6,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-11,954,0,135
+1746293235732,337,07_09_ClickOnAddToCart-1,200,OK,Scenario 7- Add to cart 7-1,text,true,,6088,612,1,6,https://jpetstore.aspectran.com/cart/viewCart,331,0,0
+1746293208318,1291,07_09_ClickOnAddToCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 7- Add to cart 7-1,,true,,6353,1243,1,6,null,954,26462,135
+1746293242156,779,02_10_ClickOnSignOut,200,OK,Scenario 2- Shopping Dog 2-1,text,true,,6222,1269,1,6,https://jpetstore.aspectran.com/,462,0,140
+1746293242156,462,02_10_ClickOnSignOut-0,302,Found,Scenario 2- Shopping Dog 2-1,,true,,393,642,1,6,https://jpetstore.aspectran.com/account/signoff,462,0,140
+1746293242620,315,02_10_ClickOnSignOut-1,200,OK,Scenario 2- Shopping Dog 2-1,text,true,,5829,627,1,6,https://jpetstore.aspectran.com/,313,0,0
+1746293225387,779,02_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2- Shopping Dog 2-1,,true,,6222,1269,1,6,null,462,16770,140
+1746293242316,711,01_10_ClickOnSignOut,200,OK,Scenario 1- Shopping Fish 1-1,text,true,,6221,1269,1,5,https://jpetstore.aspectran.com/,432,0,146
+1746293242316,432,01_10_ClickOnSignOut-0,302,Found,Scenario 1- Shopping Fish 1-1,,true,,393,642,1,5,https://jpetstore.aspectran.com/account/signoff,432,0,146
+1746293242750,277,01_10_ClickOnSignOut-1,200,OK,Scenario 1- Shopping Fish 1-1,text,true,,5828,627,1,5,https://jpetstore.aspectran.com/,276,0,0
+1746293225540,711,01_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 1- Shopping Fish 1-1,,true,,6221,1269,1,5,null,432,16777,146
+1746293243042,691,05_10_ClickOnSignOut,200,OK,Scenario 5- Shopping Birds 5-1,text,true,,6220,1265,1,4,https://jpetstore.aspectran.com/,403,0,120
+1746293243042,403,05_10_ClickOnSignOut-0,302,Found,Scenario 5- Shopping Birds 5-1,,true,,391,640,1,4,https://jpetstore.aspectran.com/account/signoff,403,0,120
+1746293243446,287,05_10_ClickOnSignOut-1,200,OK,Scenario 5- Shopping Birds 5-1,text,true,,5829,625,1,4,https://jpetstore.aspectran.com/,286,0,0
+1746293226250,691,05_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 5- Shopping Birds 5-1,,true,,6220,1265,1,4,null,403,16793,120
+1746293243113,706,03_10_ClickOnSignOut,200,OK,Scenario 3- Shopping Reptiles 3-1,text,true,,6221,1267,1,3,https://jpetstore.aspectran.com/,424,0,131
+1746293243113,424,03_10_ClickOnSignOut-0,302,Found,Scenario 3- Shopping Reptiles 3-1,,true,,392,641,1,3,https://jpetstore.aspectran.com/account/signoff,424,0,131
+1746293243537,282,03_10_ClickOnSignOut-1,200,OK,Scenario 3- Shopping Reptiles 3-1,text,true,,5829,626,1,3,https://jpetstore.aspectran.com/,281,0,0
+1746293226292,706,03_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 3- Shopping Reptiles 3-1,,true,,6221,1267,1,3,null,424,16822,131
+1746293242739,1257,04_10_ClickOnSignOut,200,OK,Scenario 4- Shopping Cats 4-1,text,true,,6222,1269,1,2,https://jpetstore.aspectran.com/,934,0,136
+1746293242739,934,04_10_ClickOnSignOut-0,302,Found,Scenario 4- Shopping Cats 4-1,,true,,393,642,1,2,https://jpetstore.aspectran.com/account/signoff,934,0,136
+1746293243675,321,04_10_ClickOnSignOut-1,200,OK,Scenario 4- Shopping Cats 4-1,text,true,,5829,627,1,2,https://jpetstore.aspectran.com/,320,0,0
+1746293226007,1257,04_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 4- Shopping Cats 4-1,,true,,6222,1269,1,2,null,934,16732,136
+1746293252867,623,07_10_ClickOnSignOut,200,OK,Scenario 7- Add to cart 7-1,text,true,,6221,1267,1,1,https://jpetstore.aspectran.com/,307,0,0
+1746293252867,307,07_10_ClickOnSignOut-0,302,Found,Scenario 7- Add to cart 7-1,,true,,392,641,1,1,https://jpetstore.aspectran.com/account/signoff,307,0,0
+1746293253175,315,07_10_ClickOnSignOut-1,200,OK,Scenario 7- Add to cart 7-1,text,true,,5829,626,1,1,https://jpetstore.aspectran.com/,314,0,0
+1746293236071,623,07_10_ClickOnSignOut,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 7- Add to cart 7-1,,true,,6221,1267,1,1,null,307,16796,0
